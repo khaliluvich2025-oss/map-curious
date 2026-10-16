@@ -104,16 +104,17 @@ The repo is public, so the pushed video has a public URL:
 Use the Metricool connector (tool names may be prefixed):
 1. `getBrandSettings` → use ONLY the brand whose label is `MapCurious` (blogId should be 6812967). Never touch other brands.
 2. Publish time — New York slots: **09:00, 13:00, 18:00, 22:00 America/New_York**.
-   Pick the FIRST slot that is at least 30 minutes after now (`TZ=America/New_York date '+%Y-%m-%d %H:%M'`);
-   if none is left today, use 09:00 tomorrow. Offset: `TZ=America/New_York date -d '<slot date+time>' +%:z`.
+   Pick the FIRST slot that is at least 30 minutes after now (`TZ=America/New_York date '+%Y-%m-%d %H:%M'`)
+   AND has no MapCurious post already scheduled at that time (check with `getScheduledPosts` for blogId 6812967
+   over the next 3 days); if none is left today, continue with 09:00 tomorrow, and so on. One video per slot. Offset: `TZ=America/New_York date -d '<slot date+time>' +%:z`.
    `date` = `YYYY-MM-DDTHH:00:00<offset>`; `publicationDate` = `{"dateTime":"YYYY-MM-DDTHH:00:00","timezone":"America/New_York"}`.
-   Other posts may already be scheduled at the same slot — that is fine, schedule yours anyway (do not move or touch them).
+   Never double up a slot; never move or touch existing posts.
 3. Create FOUR separate scheduled posts with `createScheduledPost` (one network each, `autoPublish: true`, `draft: false`,
    `media: [<raw URL>]`), texts taken from `captions.txt`:
-   - Instagram: `providers:[{"network":"instagram"}]`, `instagramData: {"type":"REEL","showReelOnFeed":true}`, text = INSTAGRAM block.
+   - Instagram: `providers:[{"network":"instagram"}]`, `instagramData: {"type":"REEL","showReelOnFeed":true,"isAiGenerated":true}`, text = INSTAGRAM block.
    - Facebook: `providers:[{"network":"facebook"}]`, `facebookData: {"type":"REEL","title":<YouTube title>}`, text = FACEBOOK block.
-   - TikTok: `providers:[{"network":"tiktok"}]`, `tiktokData: {"privacyOption":"PUBLIC_TO_EVERYONE","disableComment":false,"disableDuet":false,"disableStitch":false}`, text = TIKTOK block.
-   - YouTube: `providers:[{"network":"youtube"}]`, `youtubeData: {"title":<YouTube title>,"type":"short","privacy":"public","tags":[<YouTube tags>],"category":"EDUCATION","madeForKids":false}`,
+   - TikTok: `providers:[{"network":"tiktok"}]`, `tiktokData: {"privacyOption":"PUBLIC_TO_EVERYONE","disableComment":false,"disableDuet":false,"disableStitch":false,"title":<YouTube title without #shorts>,"isAigc":true}` (title is REQUIRED), text = TIKTOK block.
+   - YouTube: `providers:[{"network":"youtube"}]`, `youtubeData: {"title":<YouTube title>,"type":"short","privacy":"public","tags":[<YouTube tags>],"category":"EDUCATION","madeForKids":false,"isAiGeneratedContent":true}`,
      text = a 2–3 sentence description + "Sources: …" + `#Shorts #MapCurious`.
    Include the other required fields (`descendants: []`, `firstCommentText: ""`, `hasNotReadNotes: false`, `mediaAltText: []`,
    `shortener: false`, `smartLinkData: {"ids": []}`).

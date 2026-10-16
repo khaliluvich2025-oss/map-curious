@@ -1,0 +1,682 @@
+{
+ "beats": [
+  [
+   0.0,
+   "Hudson drawn on the map, flow arrows"
+  ],
+  [
+   1.38,
+   "Arrows run both ways: TWO DIRECTIONS"
+  ],
+  [
+   3.32,
+   "HUDSON RIVER chip"
+  ],
+  [
+   5.2,
+   "Camera pulls out; ADIRONDACKS source pin"
+  ],
+  [
+   7.34,
+   "NEW YORK CITY pin"
+  ],
+  [
+   8.58,
+   "Lower half highlighted"
+  ],
+  [
+   11.16,
+   "ESTUARY chip"
+  ],
+  [
+   13.02,
+   "Ocean pulse at the harbor"
+  ],
+  [
+   13.94,
+   "2\u00d7 A DAY"
+  ],
+  [
+   15.22,
+   "Tide pulses push up the river"
+  ],
+  [
+   17.52,
+   "Current arrows flip upstream"
+  ],
+  [
+   20.52,
+   "Tidal reach bracket: \u2248150 MILES"
+  ],
+  [
+   23.98,
+   "TROY \u00b7 FEDERAL DAM pin"
+  ],
+  [
+   24.72,
+   "ALBANY pin"
+  ],
+  [
+   25.94,
+   "Dry summer: camera to the lower river"
+  ],
+  [
+   27.1,
+   "Salt water creeps upriver"
+  ],
+  [
+   28.82,
+   "\u224860 MILES salt front"
+  ],
+  [
+   31.2,
+   "NATIVE PEOPLES KNEW chip"
+  ],
+  [
+   34.74,
+   "Quote card builds"
+  ],
+  [
+   38.74,
+   "Arrows run both ways again"
+  ]
+ ],
+ "sfx": [
+  [
+   0.0,
+   "whoosh",
+   2
+  ],
+  [
+   1.38,
+   "pop",
+   0.0
+  ],
+  [
+   3.32,
+   "pop",
+   0.0
+  ],
+  [
+   5.2,
+   "whoosh",
+   0.0
+  ],
+  [
+   7.34,
+   "pop",
+   0.0
+  ],
+  [
+   8.58,
+   "swish",
+   0.0
+  ],
+  [
+   11.16,
+   "pop",
+   0.0
+  ],
+  [
+   13.02,
+   "tick",
+   0.0
+  ],
+  [
+   13.94,
+   "thud",
+   0.0
+  ],
+  [
+   15.22,
+   "whoosh",
+   0.0
+  ],
+  [
+   17.52,
+   "swish",
+   2
+  ],
+  [
+   20.525,
+   "thud",
+   0.0
+  ],
+  [
+   23.98,
+   "pop",
+   0.0
+  ],
+  [
+   24.72,
+   "tick",
+   0.0
+  ],
+  [
+   25.94,
+   "whoosh",
+   0.0
+  ],
+  [
+   27.1,
+   "swish",
+   0.0
+  ],
+  [
+   28.82,
+   "thud",
+   0.0
+  ],
+  [
+   31.2,
+   "tick",
+   0.0
+  ],
+  [
+   34.74,
+   "pop",
+   0.0
+  ],
+  [
+   38.74,
+   "swish",
+   0.0
+  ]
+ ],
+ "captions": [
+  {
+   "start": 0.03,
+   "end": 1.02,
+   "text": "This river flows"
+  },
+  {
+   "start": 1.02,
+   "end": 2.63,
+   "text": "in two directions."
+  },
+  {
+   "start": 3.24,
+   "end": 3.92,
+   "text": "The Hudson River"
+  },
+  {
+   "start": 3.92,
+   "end": 4.74,
+   "text": "runs from New"
+  },
+  {
+   "start": 4.74,
+   "end": 5.78,
+   "text": "York's Adirondack"
+  },
+  {
+   "start": 5.78,
+   "end": 6.22,
+   "text": "Mountains"
+  },
+  {
+   "start": 6.22,
+   "end": 7.08,
+   "text": "down to New"
+  },
+  {
+   "start": 7.08,
+   "end": 8.26,
+   "text": "York City."
+  },
+  {
+   "start": 8.26,
+   "end": 8.82,
+   "text": "But its lower"
+  },
+  {
+   "start": 8.82,
+   "end": 9.82,
+   "text": "half isn't just"
+  },
+  {
+   "start": 9.82,
+   "end": 10.83,
+   "text": "a river."
+  },
+  {
+   "start": 10.83,
+   "end": 12.16,
+   "text": "It's an estuary,"
+  },
+  {
+   "start": 12.16,
+   "end": 12.8,
+   "text": "an arm of"
+  },
+  {
+   "start": 12.8,
+   "end": 13.88,
+   "text": "the sea."
+  },
+  {
+   "start": 13.88,
+   "end": 14.84,
+   "text": "Twice a day,"
+  },
+  {
+   "start": 14.84,
+   "end": 15.88,
+   "text": "ocean tides push"
+  },
+  {
+   "start": 15.88,
+   "end": 16.54,
+   "text": "in from New"
+  },
+  {
+   "start": 16.54,
+   "end": 17.46,
+   "text": "York Harbor and"
+  },
+  {
+   "start": 17.46,
+   "end": 19.09,
+   "text": "reverse the current."
+  },
+  {
+   "start": 19.09,
+   "end": 19.94,
+   "text": "That tide reaches"
+  },
+  {
+   "start": 19.94,
+   "end": 20.67,
+   "text": "about a hundred"
+  },
+  {
+   "start": 20.67,
+   "end": 21.08,
+   "text": "and fifty"
+  },
+  {
+   "start": 21.08,
+   "end": 22.66,
+   "text": "miles upstream,"
+  },
+  {
+   "start": 22.66,
+   "end": 23.18,
+   "text": "all the way"
+  },
+  {
+   "start": 23.18,
+   "end": 23.74,
+   "text": "to the dam"
+  },
+  {
+   "start": 23.74,
+   "end": 24.5,
+   "text": "at Troy,"
+  },
+  {
+   "start": 24.5,
+   "end": 25.73,
+   "text": "near Albany."
+  },
+  {
+   "start": 25.73,
+   "end": 27.04,
+   "text": "In dry summers,"
+  },
+  {
+   "start": 27.04,
+   "end": 27.98,
+   "text": "salty ocean water"
+  },
+  {
+   "start": 27.98,
+   "end": 28.76,
+   "text": "can push about"
+  },
+  {
+   "start": 28.76,
+   "end": 29.98,
+   "text": "sixty miles up"
+  },
+  {
+   "start": 29.98,
+   "end": 31.14,
+   "text": "the river."
+  },
+  {
+   "start": 31.14,
+   "end": 31.84,
+   "text": "Native peoples knew"
+  },
+  {
+   "start": 31.84,
+   "end": 32.9,
+   "text": "this long before"
+  },
+  {
+   "start": 32.9,
+   "end": 34.68,
+   "text": "Europeans arrived."
+  },
+  {
+   "start": 34.68,
+   "end": 35.46,
+   "text": "One Native name"
+  },
+  {
+   "start": 35.46,
+   "end": 36.02,
+   "text": "for the river"
+  },
+  {
+   "start": 36.02,
+   "end": 37.2,
+   "text": "is often translated"
+  },
+  {
+   "start": 37.2,
+   "end": 38.4,
+   "text": "as \"the river"
+  },
+  {
+   "start": 38.4,
+   "end": 39.04,
+   "text": "that flows"
+  },
+  {
+   "start": 39.04,
+   "end": 40.458,
+   "text": "both ways.\""
+  }
+ ],
+ "caption_bounds": [
+  [
+   "This river flows",
+   363.265625,
+   1021.0,
+   716.734375,
+   1097.0
+  ],
+  [
+   "in two directions.",
+   336.65625,
+   1021.0,
+   743.34375,
+   1097.0
+  ],
+  [
+   "The Hudson River",
+   336.375,
+   1021.0,
+   743.625,
+   1097.0
+  ],
+  [
+   "runs from New",
+   370.8671875,
+   1021.0,
+   709.1328125,
+   1097.0
+  ],
+  [
+   "York's Adirondack",
+   334.2265625,
+   1021.0,
+   745.7734375,
+   1097.0
+  ],
+  [
+   "Mountains",
+   412.921875,
+   1021.0,
+   667.078125,
+   1097.0
+  ],
+  [
+   "down to New",
+   390.1640625,
+   1021.0,
+   689.8359375,
+   1097.0
+  ],
+  [
+   "York City.",
+   427.703125,
+   1021.0,
+   652.296875,
+   1097.0
+  ],
+  [
+   "But its lower",
+   393.234375,
+   1021.0,
+   686.765625,
+   1097.0
+  ],
+  [
+   "half isn't just",
+   386.4375,
+   1021.0,
+   693.5625,
+   1097.0
+  ],
+  [
+   "a river.",
+   458.1328125,
+   1021.0,
+   621.8671875,
+   1097.0
+  ],
+  [
+   "It's an estuary,",
+   370.3125,
+   1021.0,
+   709.6875,
+   1097.0
+  ],
+  [
+   "an arm of",
+   429.515625,
+   1021.0,
+   650.484375,
+   1097.0
+  ],
+  [
+   "the sea.",
+   443.4765625,
+   1021.0,
+   636.5234375,
+   1097.0
+  ],
+  [
+   "Twice a day,",
+   400.546875,
+   1021.0,
+   679.453125,
+   1097.0
+  ],
+  [
+   "ocean tides push",
+   341.390625,
+   1021.0,
+   738.609375,
+   1097.0
+  ],
+  [
+   "in from New",
+   400.7421875,
+   1021.0,
+   679.2578125,
+   1097.0
+  ],
+  [
+   "York Harbor and",
+   355.359375,
+   1021.0,
+   724.640625,
+   1097.0
+  ],
+  [
+   "reverse the current.",
+   308.4453125,
+   1021.0,
+   771.5546875,
+   1097.0
+  ],
+  [
+   "That tide reaches",
+   336.140625,
+   1021.0,
+   743.859375,
+   1097.0
+  ],
+  [
+   "about a hundred",
+   348.7421875,
+   1021.0,
+   731.2578125,
+   1097.0
+  ],
+  [
+   "and fifty",
+   439.3359375,
+   1021.0,
+   640.6640625,
+   1097.0
+  ],
+  [
+   "miles upstream,",
+   351.984375,
+   1021.0,
+   728.015625,
+   1097.0
+  ],
+  [
+   "all the way",
+   415.1015625,
+   1021.0,
+   664.8984375,
+   1097.0
+  ],
+  [
+   "to the dam",
+   413.1796875,
+   1021.0,
+   666.8203125,
+   1097.0
+  ],
+  [
+   "at Troy,",
+   451.15625,
+   1021.0,
+   628.84375,
+   1097.0
+  ],
+  [
+   "near Albany.",
+   395.296875,
+   1021.0,
+   684.703125,
+   1097.0
+  ],
+  [
+   "In dry summers,",
+   354.90625,
+   1021.0,
+   725.09375,
+   1097.0
+  ],
+  [
+   "salty ocean water",
+   335.3359375,
+   1021.0,
+   744.6640625,
+   1097.0
+  ],
+  [
+   "can push about",
+   360.390625,
+   1021.0,
+   719.609375,
+   1097.0
+  ],
+  [
+   "sixty miles up",
+   379.2734375,
+   1021.0,
+   700.7265625,
+   1097.0
+  ],
+  [
+   "the river.",
+   432.71875,
+   1021.0,
+   647.28125,
+   1097.0
+  ],
+  [
+   "Native peoples knew",
+   301.2109375,
+   1021.0,
+   778.7890625,
+   1097.0
+  ],
+  [
+   "this long before",
+   355.96875,
+   1021.0,
+   724.03125,
+   1097.0
+  ],
+  [
+   "Europeans arrived.",
+   321.328125,
+   1021.0,
+   758.671875,
+   1097.0
+  ],
+  [
+   "One Native name",
+   342.34375,
+   1021.0,
+   737.65625,
+   1097.0
+  ],
+  [
+   "for the river",
+   401.3203125,
+   1021.0,
+   678.6796875,
+   1097.0
+  ],
+  [
+   "is often translated",
+   326.171875,
+   1021.0,
+   753.828125,
+   1097.0
+  ],
+  [
+   "as \"the river",
+   396.3359375,
+   1021.0,
+   683.6640625,
+   1097.0
+  ],
+  [
+   "that flows",
+   419.796875,
+   1021.0,
+   660.203125,
+   1097.0
+  ],
+  [
+   "both ways.\"",
+   400.6796875,
+   1021.0,
+   679.3203125,
+   1097.0
+  ]
+ ]
+}

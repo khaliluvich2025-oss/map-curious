@@ -1,0 +1,547 @@
+[
+ {
+  "w": "This",
+  "start": 0.09,
+  "end": 0.32
+ },
+ {
+  "w": "river",
+  "start": 0.32,
+  "end": 0.7
+ },
+ {
+  "w": "flows",
+  "start": 0.7,
+  "end": 1.08
+ },
+ {
+  "w": "in",
+  "start": 1.08,
+  "end": 1.38
+ },
+ {
+  "w": "two",
+  "start": 1.38,
+  "end": 1.68
+ },
+ {
+  "w": "directions.",
+  "start": 1.68,
+  "end": 2.28
+ },
+ {
+  "w": "The",
+  "start": 3.3,
+  "end": 3.42
+ },
+ {
+  "w": "Hudson",
+  "start": 3.32,
+  "end": 3.64
+ },
+ {
+  "w": "River",
+  "start": 3.64,
+  "end": 3.98
+ },
+ {
+  "w": "runs",
+  "start": 3.98,
+  "end": 4.32
+ },
+ {
+  "w": "from",
+  "start": 4.32,
+  "end": 4.6
+ },
+ {
+  "w": "New",
+  "start": 4.6,
+  "end": 4.8
+ },
+ {
+  "w": "York's",
+  "start": 4.8,
+  "end": 5.2
+ },
+ {
+  "w": "Adirondack",
+  "start": 5.2,
+  "end": 5.84
+ },
+ {
+  "w": "Mountains",
+  "start": 5.84,
+  "end": 6.28
+ },
+ {
+  "w": "down",
+  "start": 6.28,
+  "end": 6.74
+ },
+ {
+  "w": "to",
+  "start": 6.74,
+  "end": 6.98
+ },
+ {
+  "w": "New",
+  "start": 6.98,
+  "end": 7.14
+ },
+ {
+  "w": "York",
+  "start": 7.14,
+  "end": 7.34
+ },
+ {
+  "w": "City.",
+  "start": 7.34,
+  "end": 7.66
+ },
+ {
+  "w": "But",
+  "start": 8.32,
+  "end": 8.44
+ },
+ {
+  "w": "its",
+  "start": 8.42,
+  "end": 8.58
+ },
+ {
+  "w": "lower",
+  "start": 8.58,
+  "end": 8.88
+ },
+ {
+  "w": "half",
+  "start": 8.88,
+  "end": 9.24
+ },
+ {
+  "w": "isn't",
+  "start": 9.24,
+  "end": 9.62
+ },
+ {
+  "w": "just",
+  "start": 9.62,
+  "end": 9.88
+ },
+ {
+  "w": "a",
+  "start": 9.88,
+  "end": 10.08
+ },
+ {
+  "w": "river.",
+  "start": 10.08,
+  "end": 10.34
+ },
+ {
+  "w": "It's",
+  "start": 10.89,
+  "end": 11.04
+ },
+ {
+  "w": "an",
+  "start": 11.04,
+  "end": 11.16
+ },
+ {
+  "w": "estuary,",
+  "start": 11.16,
+  "end": 11.74
+ },
+ {
+  "w": "an",
+  "start": 12.22,
+  "end": 12.34
+ },
+ {
+  "w": "arm",
+  "start": 12.34,
+  "end": 12.68
+ },
+ {
+  "w": "of",
+  "start": 12.68,
+  "end": 12.86
+ },
+ {
+  "w": "the",
+  "start": 12.86,
+  "end": 13.02
+ },
+ {
+  "w": "sea.",
+  "start": 13.02,
+  "end": 13.28
+ },
+ {
+  "w": "Twice",
+  "start": 13.94,
+  "end": 14.14
+ },
+ {
+  "w": "a",
+  "start": 14.14,
+  "end": 14.36
+ },
+ {
+  "w": "day,",
+  "start": 14.36,
+  "end": 14.62
+ },
+ {
+  "w": "ocean",
+  "start": 14.9,
+  "end": 15.22
+ },
+ {
+  "w": "tides",
+  "start": 15.22,
+  "end": 15.56
+ },
+ {
+  "w": "push",
+  "start": 15.56,
+  "end": 15.94
+ },
+ {
+  "w": "in",
+  "start": 15.94,
+  "end": 16.16
+ },
+ {
+  "w": "from",
+  "start": 16.16,
+  "end": 16.4
+ },
+ {
+  "w": "New",
+  "start": 16.4,
+  "end": 16.6
+ },
+ {
+  "w": "York",
+  "start": 16.6,
+  "end": 16.86
+ },
+ {
+  "w": "Harbor",
+  "start": 16.86,
+  "end": 17.12
+ },
+ {
+  "w": "and",
+  "start": 17.12,
+  "end": 17.52
+ },
+ {
+  "w": "reverse",
+  "start": 17.52,
+  "end": 17.92
+ },
+ {
+  "w": "the",
+  "start": 17.92,
+  "end": 18.22
+ },
+ {
+  "w": "current.",
+  "start": 18.22,
+  "end": 18.56
+ },
+ {
+  "w": "That",
+  "start": 19.15,
+  "end": 19.34
+ },
+ {
+  "w": "tide",
+  "start": 19.34,
+  "end": 19.68
+ },
+ {
+  "w": "reaches",
+  "start": 19.68,
+  "end": 20.0
+ },
+ {
+  "w": "about",
+  "start": 20.0,
+  "end": 20.32
+ },
+ {
+  "w": "a",
+  "start": 20.32,
+  "end": 20.525
+ },
+ {
+  "w": "hundred",
+  "start": 20.525,
+  "end": 20.73
+ },
+ {
+  "w": "and",
+  "start": 20.73,
+  "end": 20.935
+ },
+ {
+  "w": "fifty",
+  "start": 20.935,
+  "end": 21.14
+ },
+ {
+  "w": "miles",
+  "start": 21.14,
+  "end": 21.7
+ },
+ {
+  "w": "upstream,",
+  "start": 21.7,
+  "end": 22.3
+ },
+ {
+  "w": "all",
+  "start": 22.72,
+  "end": 22.92
+ },
+ {
+  "w": "the",
+  "start": 22.92,
+  "end": 23.1
+ },
+ {
+  "w": "way",
+  "start": 23.1,
+  "end": 23.24
+ },
+ {
+  "w": "to",
+  "start": 23.24,
+  "end": 23.42
+ },
+ {
+  "w": "the",
+  "start": 23.42,
+  "end": 23.6
+ },
+ {
+  "w": "dam",
+  "start": 23.6,
+  "end": 23.8
+ },
+ {
+  "w": "at",
+  "start": 23.8,
+  "end": 23.98
+ },
+ {
+  "w": "Troy,",
+  "start": 23.98,
+  "end": 24.34
+ },
+ {
+  "w": "near",
+  "start": 24.56,
+  "end": 24.72
+ },
+ {
+  "w": "Albany.",
+  "start": 24.72,
+  "end": 25.1
+ },
+ {
+  "w": "In",
+  "start": 25.79,
+  "end": 25.94
+ },
+ {
+  "w": "dry",
+  "start": 25.94,
+  "end": 26.22
+ },
+ {
+  "w": "summers,",
+  "start": 26.22,
+  "end": 26.64
+ },
+ {
+  "w": "salty",
+  "start": 27.1,
+  "end": 27.28
+ },
+ {
+  "w": "ocean",
+  "start": 27.28,
+  "end": 27.7
+ },
+ {
+  "w": "water",
+  "start": 27.7,
+  "end": 28.04
+ },
+ {
+  "w": "can",
+  "start": 28.04,
+  "end": 28.24
+ },
+ {
+  "w": "push",
+  "start": 28.24,
+  "end": 28.52
+ },
+ {
+  "w": "about",
+  "start": 28.52,
+  "end": 28.82
+ },
+ {
+  "w": "sixty",
+  "start": 28.82,
+  "end": 29.36
+ },
+ {
+  "w": "miles",
+  "start": 29.36,
+  "end": 29.76
+ },
+ {
+  "w": "up",
+  "start": 29.76,
+  "end": 30.04
+ },
+ {
+  "w": "the",
+  "start": 30.04,
+  "end": 30.18
+ },
+ {
+  "w": "river.",
+  "start": 30.18,
+  "end": 30.46
+ },
+ {
+  "w": "Native",
+  "start": 31.2,
+  "end": 31.32
+ },
+ {
+  "w": "peoples",
+  "start": 31.22,
+  "end": 31.62
+ },
+ {
+  "w": "knew",
+  "start": 31.62,
+  "end": 31.9
+ },
+ {
+  "w": "this",
+  "start": 31.9,
+  "end": 32.16
+ },
+ {
+  "w": "long",
+  "start": 32.16,
+  "end": 32.54
+ },
+ {
+  "w": "before",
+  "start": 32.54,
+  "end": 32.96
+ },
+ {
+  "w": "Europeans",
+  "start": 32.96,
+  "end": 33.5
+ },
+ {
+  "w": "arrived.",
+  "start": 33.5,
+  "end": 34.12
+ },
+ {
+  "w": "One",
+  "start": 34.74,
+  "end": 34.94
+ },
+ {
+  "w": "Native",
+  "start": 34.94,
+  "end": 35.26
+ },
+ {
+  "w": "name",
+  "start": 35.26,
+  "end": 35.52
+ },
+ {
+  "w": "for",
+  "start": 35.52,
+  "end": 35.72
+ },
+ {
+  "w": "the",
+  "start": 35.72,
+  "end": 35.84
+ },
+ {
+  "w": "river",
+  "start": 35.84,
+  "end": 36.08
+ },
+ {
+  "w": "is",
+  "start": 36.08,
+  "end": 36.32
+ },
+ {
+  "w": "often",
+  "start": 36.32,
+  "end": 36.7
+ },
+ {
+  "w": "translated",
+  "start": 36.7,
+  "end": 37.26
+ },
+ {
+  "w": "as",
+  "start": 37.26,
+  "end": 37.74
+ },
+ {
+  "w": "\"the",
+  "start": 37.74,
+  "end": 38.2
+ },
+ {
+  "w": "river",
+  "start": 38.2,
+  "end": 38.46
+ },
+ {
+  "w": "that",
+  "start": 38.46,
+  "end": 38.74
+ },
+ {
+  "w": "flows",
+  "start": 38.74,
+  "end": 39.1
+ },
+ {
+  "w": "both",
+  "start": 39.1,
+  "end": 39.5
+ },
+ {
+  "w": "ways.\"",
+  "start": 39.5,
+  "end": 40.2
+ }
+]
