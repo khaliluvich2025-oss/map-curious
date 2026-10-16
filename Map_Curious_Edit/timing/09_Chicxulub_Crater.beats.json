@@ -1,0 +1,781 @@
+{
+ "beats": [
+  [
+   0.0,
+   "Yucatan coast close-up, impact pin + DINOSAUR KILLER chip"
+  ],
+  [
+   0.25,
+   "Meteor streaks in toward the pin"
+  ],
+  [
+   1.45,
+   "Impact flash + shockwave"
+  ],
+  [
+   2.7,
+   "Crater ring draws on (dashed)"
+  ],
+  [
+   4.4,
+   "Camera pulls back: Gulf, Florida, Cuba"
+  ],
+  [
+   5.74,
+   "HERE chip on pin"
+  ],
+  [
+   6.74,
+   "Camera pushes into the Yucatan"
+  ],
+  [
+   7.52,
+   "MEXICO label"
+  ],
+  [
+   8.22,
+   "YUCATAN PENINSULA label"
+  ],
+  [
+   9.86,
+   "66 MILLION YEARS AGO"
+  ],
+  [
+   12.48,
+   "Asteroid appears, ~6 MILES WIDE"
+  ],
+  [
+   14.42,
+   "Asteroid hits: flash + shockwaves"
+  ],
+  [
+   15.5,
+   "SHALLOW SEA chip"
+  ],
+  [
+   16.92,
+   "Crater ring burns in orange"
+  ],
+  [
+   18.37,
+   "Diameter line: ~110 MILES ACROSS"
+  ],
+  [
+   21.62,
+   "3/4 OF ALL SPECIES hero"
+  ],
+  [
+   23.02,
+   "Species dots: three of four crossed out"
+  ],
+  [
+   25.16,
+   "INCLUDING THE DINOSAURS chip"
+  ],
+  [
+   26.45,
+   "Camera re-frames, ring dims"
+  ],
+  [
+   27.56,
+   "Limestone layers cover the crater"
+  ],
+  [
+   29.3,
+   "Land half fills lime: HALF ON LAND"
+  ],
+  [
+   30.36,
+   "Sea half fills teal: HALF UNDER THE GULF"
+  ],
+  [
+   31.06,
+   "GULF OF MEXICO label, camera widens"
+  ],
+  [
+   32.66,
+   "Survey ship + OIL SURVEYS chip"
+  ],
+  [
+   33.78,
+   "Survey lines sweep the crater"
+  ],
+  [
+   34.94,
+   "LATE 1970s hero"
+  ],
+  [
+   36.48,
+   "Camera pushes in to the rim"
+  ],
+  [
+   37.16,
+   "Cenote dots trace the rim"
+  ],
+  [
+   39.06,
+   "Cenote ring complete"
+  ],
+  [
+   39.48,
+   "RING OF SINKHOLES chip"
+  ],
+  [
+   40.68,
+   "CENOTES hero"
+  ]
+ ],
+ "sfx": [
+  [
+   0.0,
+   "whoosh",
+   2
+  ],
+  [
+   0.25,
+   "swish",
+   0.0
+  ],
+  [
+   1.45,
+   "thud",
+   0.0
+  ],
+  [
+   2.7,
+   "pop",
+   0.0
+  ],
+  [
+   4.4,
+   "whoosh",
+   0.0
+  ],
+  [
+   5.74,
+   "pop",
+   0.0
+  ],
+  [
+   6.74,
+   "swish",
+   0.0
+  ],
+  [
+   7.52,
+   "tick",
+   0.0
+  ],
+  [
+   8.219999999999999,
+   "tick",
+   0.0
+  ],
+  [
+   9.86,
+   "thud",
+   0.0
+  ],
+  [
+   12.48,
+   "pop",
+   0.0
+  ],
+  [
+   14.42,
+   "thud",
+   2
+  ],
+  [
+   15.5,
+   "tick",
+   0.0
+  ],
+  [
+   16.92,
+   "rumble",
+   0.0
+  ],
+  [
+   18.37,
+   "pop",
+   0.0
+  ],
+  [
+   21.62,
+   "thud",
+   0.0
+  ],
+  [
+   23.02,
+   "tick",
+   0.0
+  ],
+  [
+   25.16,
+   "pop",
+   0.0
+  ],
+  [
+   26.45,
+   "swish",
+   0.0
+  ],
+  [
+   27.56,
+   "thud",
+   0.0
+  ],
+  [
+   29.3,
+   "pop",
+   0.0
+  ],
+  [
+   30.36,
+   "pop",
+   0.0
+  ],
+  [
+   31.06,
+   "tick",
+   0.0
+  ],
+  [
+   32.66,
+   "swish",
+   0.0
+  ],
+  [
+   33.78,
+   "tick",
+   0.0
+  ],
+  [
+   34.94,
+   "thud",
+   0.0
+  ],
+  [
+   36.48,
+   "whoosh",
+   0.0
+  ],
+  [
+   37.16,
+   "tick",
+   0.0
+  ],
+  [
+   39.06,
+   "pop",
+   0.0
+  ],
+  [
+   39.48,
+   "tick",
+   0.0
+  ],
+  [
+   40.68,
+   "pop",
+   0.0
+  ]
+ ],
+ "captions": [
+  {
+   "start": 0.04,
+   "end": 0.88,
+   "text": "The asteroid that"
+  },
+  {
+   "start": 0.88,
+   "end": 1.48,
+   "text": "wiped out the"
+  },
+  {
+   "start": 1.48,
+   "end": 2.64,
+   "text": "dinosaurs left a"
+  },
+  {
+   "start": 2.64,
+   "end": 3.4,
+   "text": "scar you can"
+  },
+  {
+   "start": 3.4,
+   "end": 4.24,
+   "text": "still find on"
+  },
+  {
+   "start": 4.24,
+   "end": 5.31,
+   "text": "the map."
+  },
+  {
+   "start": 5.31,
+   "end": 6.39,
+   "text": "It's right here,"
+  },
+  {
+   "start": 6.39,
+   "end": 6.98,
+   "text": "at the northern"
+  },
+  {
+   "start": 6.98,
+   "end": 8.14,
+   "text": "tip of Mexico's"
+  },
+  {
+   "start": 8.14,
+   "end": 9.8,
+   "text": "Yucat\u00e1n Peninsula."
+  },
+  {
+   "start": 9.8,
+   "end": 11.14,
+   "text": "About sixty-six million"
+  },
+  {
+   "start": 11.14,
+   "end": 12.28,
+   "text": "years ago,"
+  },
+  {
+   "start": 12.28,
+   "end": 13.1,
+   "text": "a rock roughly"
+  },
+  {
+   "start": 13.1,
+   "end": 14.36,
+   "text": "six miles wide"
+  },
+  {
+   "start": 14.36,
+   "end": 15.44,
+   "text": "slammed into a"
+  },
+  {
+   "start": 15.44,
+   "end": 16.73,
+   "text": "shallow sea."
+  },
+  {
+   "start": 16.73,
+   "end": 17.56,
+   "text": "It blasted a"
+  },
+  {
+   "start": 17.56,
+   "end": 18.31,
+   "text": "crater about a"
+  },
+  {
+   "start": 18.31,
+   "end": 18.88,
+   "text": "hundred and ten"
+  },
+  {
+   "start": 18.88,
+   "end": 20.46,
+   "text": "miles across,"
+  },
+  {
+   "start": 20.46,
+   "end": 21.04,
+   "text": "and helped wipe"
+  },
+  {
+   "start": 21.04,
+   "end": 21.96,
+   "text": "out around three"
+  },
+  {
+   "start": 21.96,
+   "end": 22.96,
+   "text": "quarters of all"
+  },
+  {
+   "start": 22.96,
+   "end": 24.39,
+   "text": "species on Earth,"
+  },
+  {
+   "start": 24.39,
+   "end": 25.99,
+   "text": "including the dinosaurs."
+  },
+  {
+   "start": 26.39,
+   "end": 27.22,
+   "text": "Today the crater"
+  },
+  {
+   "start": 27.22,
+   "end": 27.82,
+   "text": "is buried"
+  },
+  {
+   "start": 27.82,
+   "end": 29.24,
+   "text": "under limestone,"
+  },
+  {
+   "start": 29.24,
+   "end": 29.92,
+   "text": "half on land"
+  },
+  {
+   "start": 29.92,
+   "end": 30.88,
+   "text": "and half under"
+  },
+  {
+   "start": 30.88,
+   "end": 31.18,
+   "text": "the Gulf"
+  },
+  {
+   "start": 31.18,
+   "end": 32.19,
+   "text": "of Mexico."
+  },
+  {
+   "start": 32.6,
+   "end": 33.72,
+   "text": "Oil company geologists"
+  },
+  {
+   "start": 33.72,
+   "end": 34.56,
+   "text": "spotted it in"
+  },
+  {
+   "start": 34.56,
+   "end": 36.42,
+   "text": "the late 1970s."
+  },
+  {
+   "start": 36.42,
+   "end": 36.78,
+   "text": "But you can"
+  },
+  {
+   "start": 36.78,
+   "end": 37.44,
+   "text": "still trace"
+  },
+  {
+   "start": 37.44,
+   "end": 38.44,
+   "text": "its edge:"
+  },
+  {
+   "start": 38.44,
+   "end": 39.24,
+   "text": "a curving ring"
+  },
+  {
+   "start": 39.24,
+   "end": 40.08,
+   "text": "of sinkholes,"
+  },
+  {
+   "start": 40.08,
+   "end": 41.75,
+   "text": "called cenotes."
+  }
+ ],
+ "caption_bounds": [
+  [
+   "The asteroid that",
+   339.359375,
+   1021.0,
+   740.640625,
+   1097.0
+  ],
+  [
+   "wiped out the",
+   378.484375,
+   1021.0,
+   701.515625,
+   1097.0
+  ],
+  [
+   "dinosaurs left a",
+   359.65625,
+   1021.0,
+   720.34375,
+   1097.0
+  ],
+  [
+   "scar you can",
+   393.25,
+   1021.0,
+   686.75,
+   1097.0
+  ],
+  [
+   "still find on",
+   407.7421875,
+   1021.0,
+   672.2578125,
+   1097.0
+  ],
+  [
+   "the map.",
+   434.8515625,
+   1021.0,
+   645.1484375,
+   1097.0
+  ],
+  [
+   "It's right here,",
+   376.578125,
+   1021.0,
+   703.421875,
+   1097.0
+  ],
+  [
+   "at the northern",
+   361.140625,
+   1021.0,
+   718.859375,
+   1097.0
+  ],
+  [
+   "tip of Mexico's",
+   373.1953125,
+   1021.0,
+   706.8046875,
+   1097.0
+  ],
+  [
+   "Yucat\u00e1n Peninsula.",
+   317.1796875,
+   1021.0,
+   762.8203125,
+   1097.0
+  ],
+  [
+   "About sixty-six million",
+   280.8515625,
+   1021.0,
+   799.1484375,
+   1097.0
+  ],
+  [
+   "years ago,",
+   419.0078125,
+   1021.0,
+   660.9921875,
+   1097.0
+  ],
+  [
+   "a rock roughly",
+   374.4296875,
+   1021.0,
+   705.5703125,
+   1097.0
+  ],
+  [
+   "six miles wide",
+   377.34375,
+   1021.0,
+   702.65625,
+   1097.0
+  ],
+  [
+   "slammed into a",
+   362.953125,
+   1021.0,
+   717.046875,
+   1097.0
+  ],
+  [
+   "shallow sea.",
+   395.3984375,
+   1021.0,
+   684.6015625,
+   1097.0
+  ],
+  [
+   "It blasted a",
+   409.3515625,
+   1021.0,
+   670.6484375,
+   1097.0
+  ],
+  [
+   "crater about a",
+   375.3359375,
+   1021.0,
+   704.6640625,
+   1097.0
+  ],
+  [
+   "hundred and ten",
+   349.1953125,
+   1021.0,
+   730.8046875,
+   1097.0
+  ],
+  [
+   "miles across,",
+   385.59375,
+   1021.0,
+   694.40625,
+   1097.0
+  ],
+  [
+   "and helped wipe",
+   350.6328125,
+   1021.0,
+   729.3671875,
+   1097.0
+  ],
+  [
+   "out around three",
+   343.0078125,
+   1021.0,
+   736.9921875,
+   1097.0
+  ],
+  [
+   "quarters of all",
+   377.5,
+   1021.0,
+   702.5,
+   1097.0
+  ],
+  [
+   "species on Earth,",
+   339.8515625,
+   1021.0,
+   740.1484375,
+   1097.0
+  ],
+  [
+   "including the dinosaurs.",
+   260.90625,
+   1021.0,
+   819.09375,
+   1097.0
+  ],
+  [
+   "Today the crater",
+   350.125,
+   1021.0,
+   729.875,
+   1097.0
+  ],
+  [
+   "is buried",
+   436.3984375,
+   1021.0,
+   643.6015625,
+   1097.0
+  ],
+  [
+   "under limestone,",
+   342.390625,
+   1021.0,
+   737.609375,
+   1097.0
+  ],
+  [
+   "half on land",
+   403.0546875,
+   1021.0,
+   676.9453125,
+   1097.0
+  ],
+  [
+   "and half under",
+   372.046875,
+   1021.0,
+   707.953125,
+   1097.0
+  ],
+  [
+   "the Gulf",
+   443.2265625,
+   1021.0,
+   636.7734375,
+   1097.0
+  ],
+  [
+   "of Mexico.",
+   418.6640625,
+   1021.0,
+   661.3359375,
+   1097.0
+  ],
+  [
+   "Oil company geologists",
+   269.65625,
+   1021.0,
+   810.34375,
+   1097.0
+  ],
+  [
+   "spotted it in",
+   397.59375,
+   1021.0,
+   682.40625,
+   1097.0
+  ],
+  [
+   "the late 1970s.",
+   369.5546875,
+   1021.0,
+   710.4453125,
+   1097.0
+  ],
+  [
+   "But you can",
+   402.40625,
+   1021.0,
+   677.59375,
+   1097.0
+  ],
+  [
+   "still trace",
+   426.2890625,
+   1021.0,
+   653.7109375,
+   1097.0
+  ],
+  [
+   "its edge:",
+   434.8984375,
+   1021.0,
+   645.1015625,
+   1097.0
+  ],
+  [
+   "a curving ring",
+   379.78125,
+   1021.0,
+   700.21875,
+   1097.0
+  ],
+  [
+   "of sinkholes,",
+   389.71875,
+   1021.0,
+   690.28125,
+   1097.0
+  ],
+  [
+   "called cenotes.",
+   361.875,
+   1021.0,
+   718.125,
+   1097.0
+  ]
+ ]
+}

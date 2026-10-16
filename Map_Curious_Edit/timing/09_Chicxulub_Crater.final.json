@@ -1,0 +1,552 @@
+[
+ {
+  "w": "The",
+  "start": 0.1,
+  "end": 0.18
+ },
+ {
+  "w": "asteroid",
+  "start": 0.18,
+  "end": 0.68
+ },
+ {
+  "w": "that",
+  "start": 0.68,
+  "end": 0.94
+ },
+ {
+  "w": "wiped",
+  "start": 0.94,
+  "end": 1.16
+ },
+ {
+  "w": "out",
+  "start": 1.16,
+  "end": 1.38
+ },
+ {
+  "w": "the",
+  "start": 1.38,
+  "end": 1.54
+ },
+ {
+  "w": "dinosaurs",
+  "start": 1.54,
+  "end": 2.14
+ },
+ {
+  "w": "left",
+  "start": 2.14,
+  "end": 2.52
+ },
+ {
+  "w": "a",
+  "start": 2.52,
+  "end": 2.7
+ },
+ {
+  "w": "scar",
+  "start": 2.7,
+  "end": 3.08
+ },
+ {
+  "w": "you",
+  "start": 3.08,
+  "end": 3.28
+ },
+ {
+  "w": "can",
+  "start": 3.28,
+  "end": 3.46
+ },
+ {
+  "w": "still",
+  "start": 3.46,
+  "end": 3.78
+ },
+ {
+  "w": "find",
+  "start": 3.78,
+  "end": 4.12
+ },
+ {
+  "w": "on",
+  "start": 4.12,
+  "end": 4.3
+ },
+ {
+  "w": "the",
+  "start": 4.3,
+  "end": 4.4
+ },
+ {
+  "w": "map.",
+  "start": 4.4,
+  "end": 4.72
+ },
+ {
+  "w": "It's",
+  "start": 5.37,
+  "end": 5.54
+ },
+ {
+  "w": "right",
+  "start": 5.54,
+  "end": 5.74
+ },
+ {
+  "w": "here,",
+  "start": 5.74,
+  "end": 6.14
+ },
+ {
+  "w": "at",
+  "start": 6.45,
+  "end": 6.57
+ },
+ {
+  "w": "the",
+  "start": 6.56,
+  "end": 6.74
+ },
+ {
+  "w": "northern",
+  "start": 6.74,
+  "end": 7.04
+ },
+ {
+  "w": "tip",
+  "start": 7.04,
+  "end": 7.34
+ },
+ {
+  "w": "of",
+  "start": 7.34,
+  "end": 7.52
+ },
+ {
+  "w": "Mexico's",
+  "start": 7.52,
+  "end": 8.2
+ },
+ {
+  "w": "Yucat\u00e1n",
+  "start": 8.2,
+  "end": 8.62
+ },
+ {
+  "w": "Peninsula.",
+  "start": 8.62,
+  "end": 9.12
+ },
+ {
+  "w": "About",
+  "start": 9.86,
+  "end": 10.06
+ },
+ {
+  "w": "sixty-six",
+  "start": 10.06,
+  "end": 10.6
+ },
+ {
+  "w": "million",
+  "start": 10.6,
+  "end": 11.2
+ },
+ {
+  "w": "years",
+  "start": 11.2,
+  "end": 11.66
+ },
+ {
+  "w": "ago,",
+  "start": 11.66,
+  "end": 12.0
+ },
+ {
+  "w": "a",
+  "start": 12.34,
+  "end": 12.48
+ },
+ {
+  "w": "rock",
+  "start": 12.48,
+  "end": 12.74
+ },
+ {
+  "w": "roughly",
+  "start": 12.74,
+  "end": 13.16
+ },
+ {
+  "w": "six",
+  "start": 13.16,
+  "end": 13.56
+ },
+ {
+  "w": "miles",
+  "start": 13.56,
+  "end": 13.92
+ },
+ {
+  "w": "wide",
+  "start": 13.92,
+  "end": 14.42
+ },
+ {
+  "w": "slammed",
+  "start": 14.42,
+  "end": 14.92
+ },
+ {
+  "w": "into",
+  "start": 14.92,
+  "end": 15.3
+ },
+ {
+  "w": "a",
+  "start": 15.3,
+  "end": 15.5
+ },
+ {
+  "w": "shallow",
+  "start": 15.5,
+  "end": 15.76
+ },
+ {
+  "w": "sea.",
+  "start": 15.76,
+  "end": 16.18
+ },
+ {
+  "w": "It",
+  "start": 16.79,
+  "end": 16.92
+ },
+ {
+  "w": "blasted",
+  "start": 16.92,
+  "end": 17.32
+ },
+ {
+  "w": "a",
+  "start": 17.32,
+  "end": 17.62
+ },
+ {
+  "w": "crater",
+  "start": 17.62,
+  "end": 17.88
+ },
+ {
+  "w": "about",
+  "start": 17.88,
+  "end": 18.18
+ },
+ {
+  "w": "a",
+  "start": 18.18,
+  "end": 18.37
+ },
+ {
+  "w": "hundred",
+  "start": 18.37,
+  "end": 18.56
+ },
+ {
+  "w": "and",
+  "start": 18.56,
+  "end": 18.75
+ },
+ {
+  "w": "ten",
+  "start": 18.75,
+  "end": 18.94
+ },
+ {
+  "w": "miles",
+  "start": 18.94,
+  "end": 19.52
+ },
+ {
+  "w": "across,",
+  "start": 19.52,
+  "end": 20.04
+ },
+ {
+  "w": "and",
+  "start": 20.52,
+  "end": 20.64
+ },
+ {
+  "w": "helped",
+  "start": 20.6,
+  "end": 20.82
+ },
+ {
+  "w": "wipe",
+  "start": 20.82,
+  "end": 21.1
+ },
+ {
+  "w": "out",
+  "start": 21.1,
+  "end": 21.34
+ },
+ {
+  "w": "around",
+  "start": 21.34,
+  "end": 21.62
+ },
+ {
+  "w": "three",
+  "start": 21.62,
+  "end": 22.02
+ },
+ {
+  "w": "quarters",
+  "start": 22.02,
+  "end": 22.4
+ },
+ {
+  "w": "of",
+  "start": 22.4,
+  "end": 22.7
+ },
+ {
+  "w": "all",
+  "start": 22.7,
+  "end": 23.02
+ },
+ {
+  "w": "species",
+  "start": 23.02,
+  "end": 23.44
+ },
+ {
+  "w": "on",
+  "start": 23.44,
+  "end": 23.78
+ },
+ {
+  "w": "Earth,",
+  "start": 23.78,
+  "end": 24.02
+ },
+ {
+  "w": "including",
+  "start": 24.45,
+  "end": 24.88
+ },
+ {
+  "w": "the",
+  "start": 24.88,
+  "end": 25.16
+ },
+ {
+  "w": "dinosaurs.",
+  "start": 25.16,
+  "end": 25.64
+ },
+ {
+  "w": "Today",
+  "start": 26.45,
+  "end": 26.7
+ },
+ {
+  "w": "the",
+  "start": 27.0,
+  "end": 27.12
+ },
+ {
+  "w": "crater",
+  "start": 27.04,
+  "end": 27.28
+ },
+ {
+  "w": "is",
+  "start": 27.28,
+  "end": 27.56
+ },
+ {
+  "w": "buried",
+  "start": 27.56,
+  "end": 27.88
+ },
+ {
+  "w": "under",
+  "start": 27.88,
+  "end": 28.18
+ },
+ {
+  "w": "limestone,",
+  "start": 28.18,
+  "end": 28.82
+ },
+ {
+  "w": "half",
+  "start": 29.3,
+  "end": 29.46
+ },
+ {
+  "w": "on",
+  "start": 29.46,
+  "end": 29.68
+ },
+ {
+  "w": "land",
+  "start": 29.68,
+  "end": 29.98
+ },
+ {
+  "w": "and",
+  "start": 29.98,
+  "end": 30.36
+ },
+ {
+  "w": "half",
+  "start": 30.36,
+  "end": 30.7
+ },
+ {
+  "w": "under",
+  "start": 30.7,
+  "end": 30.94
+ },
+ {
+  "w": "the",
+  "start": 30.94,
+  "end": 31.06
+ },
+ {
+  "w": "Gulf",
+  "start": 31.06,
+  "end": 31.24
+ },
+ {
+  "w": "of",
+  "start": 31.24,
+  "end": 31.42
+ },
+ {
+  "w": "Mexico.",
+  "start": 31.42,
+  "end": 31.84
+ },
+ {
+  "w": "Oil",
+  "start": 32.66,
+  "end": 32.72
+ },
+ {
+  "w": "company",
+  "start": 32.72,
+  "end": 33.12
+ },
+ {
+  "w": "geologists",
+  "start": 33.12,
+  "end": 33.78
+ },
+ {
+  "w": "spotted",
+  "start": 33.78,
+  "end": 34.22
+ },
+ {
+  "w": "it",
+  "start": 34.22,
+  "end": 34.44
+ },
+ {
+  "w": "in",
+  "start": 34.44,
+  "end": 34.62
+ },
+ {
+  "w": "the",
+  "start": 34.62,
+  "end": 34.74
+ },
+ {
+  "w": "late",
+  "start": 34.74,
+  "end": 34.94
+ },
+ {
+  "w": "1970s.",
+  "start": 34.94,
+  "end": 36.07
+ },
+ {
+  "w": "But",
+  "start": 36.48,
+  "end": 36.6
+ },
+ {
+  "w": "you",
+  "start": 36.56,
+  "end": 36.68
+ },
+ {
+  "w": "can",
+  "start": 36.68,
+  "end": 36.84
+ },
+ {
+  "w": "still",
+  "start": 36.84,
+  "end": 37.16
+ },
+ {
+  "w": "trace",
+  "start": 37.16,
+  "end": 37.5
+ },
+ {
+  "w": "its",
+  "start": 37.5,
+  "end": 37.74
+ },
+ {
+  "w": "edge:",
+  "start": 37.74,
+  "end": 38.08
+ },
+ {
+  "w": "a",
+  "start": 38.5,
+  "end": 38.62
+ },
+ {
+  "w": "curving",
+  "start": 38.62,
+  "end": 39.06
+ },
+ {
+  "w": "ring",
+  "start": 39.06,
+  "end": 39.3
+ },
+ {
+  "w": "of",
+  "start": 39.3,
+  "end": 39.48
+ },
+ {
+  "w": "sinkholes,",
+  "start": 39.48,
+  "end": 40.14
+ },
+ {
+  "w": "called",
+  "start": 40.14,
+  "end": 40.68
+ },
+ {
+  "w": "cenotes.",
+  "start": 40.68,
+  "end": 41.53
+ }
+]
