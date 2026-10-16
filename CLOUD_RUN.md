@@ -2,7 +2,7 @@
 
 You are running unattended in a cloud session with this repo checked out. Nobody will answer questions.
 Produce ONE new finished Map Curious vertical video, commit it to `ready/`, push, then schedule it in
-Metricool (step 9) for 13:00 Morocco time, and stop. Post ONLY through step 9, ONLY to the MapCurious brand,
+Metricool (step 9) at the next New York slot (9 AM, 1 PM, 6 PM or 10 PM ET), and stop. Post ONLY through step 9, ONLY to the MapCurious brand,
 and only after the video passed the checks in step 7.
 
 Paths below are relative to the repo root.
@@ -103,9 +103,11 @@ The repo is public, so the pushed video has a public URL:
 
 Use the Metricool connector (tool names may be prefixed):
 1. `getBrandSettings` → use ONLY the brand whose label is `MapCurious` (blogId should be 6812967). Never touch other brands.
-2. Publish time: **13:00 Africa/Casablanca today**. Offset: `TZ=Africa/Casablanca date +%:z`.
-   `date` = `YYYY-MM-DDT13:00:00<offset>`; `publicationDate` = `{"dateTime":"YYYY-MM-DDT13:00:00","timezone":"Africa/Casablanca"}`.
-   If 13:00 has already passed, use the next full hour at least 30 minutes ahead.
+2. Publish time — New York slots: **09:00, 13:00, 18:00, 22:00 America/New_York**.
+   Pick the FIRST slot that is at least 30 minutes after now (`TZ=America/New_York date '+%Y-%m-%d %H:%M'`);
+   if none is left today, use 09:00 tomorrow. Offset: `TZ=America/New_York date -d '<slot date+time>' +%:z`.
+   `date` = `YYYY-MM-DDTHH:00:00<offset>`; `publicationDate` = `{"dateTime":"YYYY-MM-DDTHH:00:00","timezone":"America/New_York"}`.
+   Other posts may already be scheduled at the same slot — that is fine, schedule yours anyway (do not move or touch them).
 3. Create FOUR separate scheduled posts with `createScheduledPost` (one network each, `autoPublish: true`, `draft: false`,
    `media: [<raw URL>]`), texts taken from `captions.txt`:
    - Instagram: `providers:[{"network":"instagram"}]`, `instagramData: {"type":"REEL","showReelOnFeed":true}`, text = INSTAGRAM block.
