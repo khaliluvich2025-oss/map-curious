@@ -1,0 +1,8 @@
+__pycache__/
+Map_Curious_Edit/_render_tmp/
+Map_Curious_Edit/_snap_src/
+Map_Curious_Edit/output/
+Map_Curious_Edit/covers/
+Map_Curious_Edit/srt/
+Map_Curious_Edit/qa/
+*.pyc

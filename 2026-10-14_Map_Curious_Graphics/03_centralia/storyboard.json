@@ -1,0 +1,26 @@
+{
+  "title": "CENTRALIA",
+  "beats": [
+    "Pennsylvania highlight",
+    "Centralia marker",
+    "1962 appears",
+    "Surface graphic",
+    "Earth cross-section reveal",
+    "Coal layer reveal",
+    "Ember cutout",
+    "Heat arrows travel",
+    "Mine opening graphic",
+    "Miner helmet",
+    "Surface subsidence schematic",
+    "Return to map"
+  ],
+  "timing": "Provisional: scale each beat to narration; split beats into reveals roughly every 2 seconds. No audio or edited MP4 supplied in this asset pack.",
+  "source": "https://www.pa.gov/agencies/dep/programs-and-services/mining/abandoned-mine-reclamation/aml-program-information/centralia-mine-fire-resources",
+  "bbox": [
+    -81.34,
+    34.071155060873274,
+    -71.34,
+    47.52884493912672
+  ],
+  "projection": "Geographic equirectangular WMS, aspect adjusted at center latitude. Context scale only; not street-level imagery."
+}

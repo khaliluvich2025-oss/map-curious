@@ -1,0 +1,26 @@
+{
+  "title": "UNDERWATER WATERFALL",
+  "beats": [
+    "Greenland and Iceland",
+    "Strait marker",
+    "Camera descends",
+    "Ocean plate",
+    "Two water masses",
+    "Cold layer highlight",
+    "Seafloor sill",
+    "Cold water descends",
+    "Flow arrow reveal",
+    "Warm layer stays above",
+    "Density comparison",
+    "Return to overhead map"
+  ],
+  "timing": "Provisional: scale each beat to narration; split beats into reveals roughly every 2 seconds. No audio or edited MP4 supplied in this asset pack.",
+  "source": "https://oceanservice.noaa.gov/facts/largest-waterfall.html",
+  "bbox": [
+    -49.5,
+    49.64950272513931,
+    -6.5,
+    81.3504972748607
+  ],
+  "projection": "Geographic equirectangular WMS, aspect adjusted at center latitude. Context scale only; not street-level imagery."
+}

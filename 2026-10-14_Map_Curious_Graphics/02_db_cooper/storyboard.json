@@ -1,0 +1,26 @@
+{
+  "title": "D.B. COOPER",
+  "beats": [
+    "Plane enters map",
+    "Portland pin",
+    "Seattle pin",
+    "Route connects cities",
+    "1971 label",
+    "FBI sketch",
+    "Ransom amount",
+    "Parachute enters",
+    "Southbound direction",
+    "Fade plane marker",
+    "Recovered money photo",
+    "Question mark / unresolved ending"
+  ],
+  "timing": "Provisional: scale each beat to narration; split beats into reveals roughly every 2 seconds. No audio or edited MP4 supplied in this asset pack.",
+  "source": "https://www.fbi.gov/history/cases-and-criminals/db-cooper-hijacking",
+  "bbox": [
+    -127.5,
+    35.76267337586893,
+    -115.5,
+    51.23732662413107
+  ],
+  "projection": "Geographic equirectangular WMS, aspect adjusted at center latitude. Context scale only; not street-level imagery."
+}

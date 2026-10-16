@@ -1,0 +1,26 @@
+{
+  "title": "FORT JEFFERSON",
+  "beats": [
+    "Fort location pulses",
+    "Reveal Florida context",
+    "Photo of fort",
+    "Cannons enter",
+    "Shipping arrows appear",
+    "Harbor ring appears",
+    "Prison bars slide",
+    "Keys reveal",
+    "Civil War date",
+    "Archival interior",
+    "Ocean distance emphasis",
+    "Return to overhead map"
+  ],
+  "timing": "Provisional: scale each beat to narration; split beats into reveals roughly every 2 seconds. No audio or edited MP4 supplied in this asset pack.",
+  "source": "https://www.nps.gov/drto/learn/historyculture/fort-jefferson.htm",
+  "bbox": [
+    -90.373,
+    12.507565769186652,
+    -75.373,
+    36.748434230813345
+  ],
+  "projection": "Geographic equirectangular WMS, aspect adjusted at center latitude. Context scale only; not street-level imagery."
+}
