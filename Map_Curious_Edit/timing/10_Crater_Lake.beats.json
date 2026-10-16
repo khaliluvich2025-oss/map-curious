@@ -1,0 +1,809 @@
+{
+ "beats": [
+  [
+   0.0,
+   "Crater Lake pin on the Oregon map"
+  ],
+  [
+   0.22,
+   "DEEPEST LAKE label"
+  ],
+  [
+   1.1,
+   "Hero: DEEPEST LAKE IN THE U.S."
+  ],
+  [
+   2.64,
+   "Volcano icon rises over the pin"
+  ],
+  [
+   3.46,
+   "Icon collapses into a blue bowl"
+  ],
+  [
+   5.2,
+   "CRATER LAKE chip"
+  ],
+  [
+   6.8,
+   "Camera pulls back; Cascade volcanoes pop up"
+  ],
+  [
+   8.14,
+   "OREGON label"
+  ],
+  [
+   9.01,
+   "Map lifts: schematic volcano profile"
+  ],
+  [
+   9.42,
+   "\u22487,700 YEARS AGO"
+  ],
+  [
+   11.64,
+   "Mount Mazama grows tall"
+  ],
+  [
+   13.18,
+   "MOUNT MAZAMA chip"
+  ],
+  [
+   13.98,
+   "Eruption begins"
+  ],
+  [
+   15.34,
+   "Ash column surges upward"
+  ],
+  [
+   16.62,
+   "ASH + MAGMA chip; magma chamber glows"
+  ],
+  [
+   17.16,
+   "Magma chamber drains"
+  ],
+  [
+   18.14,
+   "Summit highlighted"
+  ],
+  [
+   19.0,
+   "Summit collapses (shake)"
+  ],
+  [
+   20.55,
+   "Empty caldera revealed"
+  ],
+  [
+   21.38,
+   "\u22485 MI ACROSS width arrow"
+  ],
+  [
+   22.32,
+   "CALDERA chip"
+  ],
+  [
+   24.74,
+   "Rain falls into the caldera"
+  ],
+  [
+   25.3,
+   "Snowflakes join; water level rises"
+  ],
+  [
+   26.34,
+   "Lake fills to the brim"
+  ],
+  [
+   27.37,
+   "River-in arrow, crossed out"
+  ],
+  [
+   29.44,
+   "River-out arrow, crossed out"
+  ],
+  [
+   30.34,
+   "Depth ruler draws down"
+  ],
+  [
+   31.56,
+   "1,943 FT"
+  ],
+  [
+   33.68,
+   "DEEPEST LAKE IN THE U.S. chip"
+  ],
+  [
+   37.22,
+   "Rain again: fed from the sky"
+  ],
+  [
+   39.16,
+   "Back to the map, zoom on the lake"
+  ],
+  [
+   40.08,
+   "Lake glows blue; CLEAREST chip"
+  ]
+ ],
+ "sfx": [
+  [
+   0.0,
+   "pop",
+   2
+  ],
+  [
+   0.22,
+   "tick",
+   0.0
+  ],
+  [
+   1.1,
+   "thud",
+   0.0
+  ],
+  [
+   2.64,
+   "pop",
+   0.0
+  ],
+  [
+   3.46,
+   "rumble",
+   0.0
+  ],
+  [
+   5.2,
+   "pop",
+   0.0
+  ],
+  [
+   6.8,
+   "whoosh",
+   0.0
+  ],
+  [
+   8.14,
+   "tick",
+   0.0
+  ],
+  [
+   9.01,
+   "whoosh",
+   0.0
+  ],
+  [
+   9.42,
+   "thud",
+   0.0
+  ],
+  [
+   11.64,
+   "swish",
+   0.0
+  ],
+  [
+   13.18,
+   "pop",
+   0.0
+  ],
+  [
+   13.98,
+   "rumble",
+   2
+  ],
+  [
+   15.34,
+   "whoosh",
+   2
+  ],
+  [
+   16.62,
+   "tick",
+   0.0
+  ],
+  [
+   18.14,
+   "tick",
+   0.0
+  ],
+  [
+   19.0,
+   "rumble",
+   3
+  ],
+  [
+   20.55,
+   "swish",
+   0.0
+  ],
+  [
+   21.38,
+   "tick",
+   0.0
+  ],
+  [
+   22.32,
+   "pop",
+   0.0
+  ],
+  [
+   24.74,
+   "swish",
+   0.0
+  ],
+  [
+   25.3,
+   "tick",
+   0.0
+  ],
+  [
+   26.34,
+   "pop",
+   0.0
+  ],
+  [
+   27.37,
+   "tick",
+   0.0
+  ],
+  [
+   29.44,
+   "tick",
+   0.0
+  ],
+  [
+   30.34,
+   "swish",
+   0.0
+  ],
+  [
+   31.56,
+   "thud",
+   0.0
+  ],
+  [
+   33.68,
+   "pop",
+   0.0
+  ],
+  [
+   37.22,
+   "swish",
+   0.0
+  ],
+  [
+   39.16,
+   "whoosh",
+   0.0
+  ],
+  [
+   40.08,
+   "pop",
+   0.0
+  ]
+ ],
+ "captions": [
+  {
+   "start": 0.04,
+   "end": 0.88,
+   "text": "The deepest lake"
+  },
+  {
+   "start": 0.88,
+   "end": 1.92,
+   "text": "in America sits"
+  },
+  {
+   "start": 1.92,
+   "end": 3.04,
+   "text": "inside a volcano"
+  },
+  {
+   "start": 3.04,
+   "end": 4.39,
+   "text": "that collapsed."
+  },
+  {
+   "start": 4.8,
+   "end": 6.26,
+   "text": "It's Crater Lake,"
+  },
+  {
+   "start": 6.26,
+   "end": 6.74,
+   "text": "high in the"
+  },
+  {
+   "start": 6.74,
+   "end": 7.84,
+   "text": "Cascade Mountains of"
+  },
+  {
+   "start": 7.84,
+   "end": 9.2,
+   "text": "southern Oregon."
+  },
+  {
+   "start": 9.2,
+   "end": 9.82,
+   "text": "About seventy-seven"
+  },
+  {
+   "start": 9.82,
+   "end": 10.28,
+   "text": "hundred"
+  },
+  {
+   "start": 10.28,
+   "end": 11.48,
+   "text": "years ago,"
+  },
+  {
+   "start": 11.48,
+   "end": 12.72,
+   "text": "a towering volcano"
+  },
+  {
+   "start": 12.72,
+   "end": 13.4,
+   "text": "called Mount"
+  },
+  {
+   "start": 13.4,
+   "end": 15.18,
+   "text": "Mazama erupted."
+  },
+  {
+   "start": 15.18,
+   "end": 15.94,
+   "text": "It blasted out"
+  },
+  {
+   "start": 15.94,
+   "end": 16.9,
+   "text": "so much ash"
+  },
+  {
+   "start": 16.9,
+   "end": 17.94,
+   "text": "and magma that"
+  },
+  {
+   "start": 17.94,
+   "end": 18.5,
+   "text": "the top of"
+  },
+  {
+   "start": 18.5,
+   "end": 19.26,
+   "text": "the mountain fell"
+  },
+  {
+   "start": 19.26,
+   "end": 20.49,
+   "text": "in on itself,"
+  },
+  {
+   "start": 20.49,
+   "end": 21.32,
+   "text": "leaving a giant"
+  },
+  {
+   "start": 21.32,
+   "end": 22.1,
+   "text": "bowl called"
+  },
+  {
+   "start": 22.1,
+   "end": 23.47,
+   "text": "a caldera."
+  },
+  {
+   "start": 23.47,
+   "end": 24.68,
+   "text": "Over the centuries,"
+  },
+  {
+   "start": 24.68,
+   "end": 25.64,
+   "text": "rain and snow"
+  },
+  {
+   "start": 25.64,
+   "end": 27.31,
+   "text": "slowly filled it."
+  },
+  {
+   "start": 27.31,
+   "end": 27.78,
+   "text": "No rivers"
+  },
+  {
+   "start": 27.78,
+   "end": 28.4,
+   "text": "flow in,"
+  },
+  {
+   "start": 28.4,
+   "end": 29.08,
+   "text": "and none"
+  },
+  {
+   "start": 29.08,
+   "end": 30.28,
+   "text": "flow out."
+  },
+  {
+   "start": 30.28,
+   "end": 31.08,
+   "text": "Today the lake"
+  },
+  {
+   "start": 31.08,
+   "end": 31.93,
+   "text": "is about nineteen"
+  },
+  {
+   "start": 31.93,
+   "end": 33.54,
+   "text": "hundred feet deep,"
+  },
+  {
+   "start": 33.54,
+   "end": 34.36,
+   "text": "the deepest in"
+  },
+  {
+   "start": 34.36,
+   "end": 35.8,
+   "text": "the United States."
+  },
+  {
+   "start": 35.8,
+   "end": 36.5,
+   "text": "And because almost"
+  },
+  {
+   "start": 36.5,
+   "end": 37.16,
+   "text": "all of its"
+  },
+  {
+   "start": 37.16,
+   "end": 38.22,
+   "text": "water falls straight"
+  },
+  {
+   "start": 38.22,
+   "end": 39.48,
+   "text": "from the sky,"
+  },
+  {
+   "start": 39.48,
+   "end": 39.9,
+   "text": "it's one of"
+  },
+  {
+   "start": 39.9,
+   "end": 41.0,
+   "text": "the clearest,"
+  },
+  {
+   "start": 41.0,
+   "end": 41.56,
+   "text": "bluest lakes"
+  },
+  {
+   "start": 41.56,
+   "end": 42.542,
+   "text": "on Earth."
+  }
+ ],
+ "caption_bounds": [
+  [
+   "The deepest lake",
+   342.3671875,
+   1021.0,
+   737.6328125,
+   1097.0
+  ],
+  [
+   "in America sits",
+   367.7890625,
+   1021.0,
+   712.2109375,
+   1097.0
+  ],
+  [
+   "inside a volcano",
+   352.984375,
+   1021.0,
+   727.015625,
+   1097.0
+  ],
+  [
+   "that collapsed.",
+   364.140625,
+   1021.0,
+   715.859375,
+   1097.0
+  ],
+  [
+   "It's Crater Lake,",
+   358.796875,
+   1021.0,
+   721.203125,
+   1097.0
+  ],
+  [
+   "high in the",
+   414.140625,
+   1021.0,
+   665.859375,
+   1097.0
+  ],
+  [
+   "Cascade Mountains of",
+   282.3359375,
+   1021.0,
+   797.6640625,
+   1097.0
+  ],
+  [
+   "southern Oregon.",
+   333.421875,
+   1021.0,
+   746.578125,
+   1097.0
+  ],
+  [
+   "About seventy-seven",
+   293.5078125,
+   1021.0,
+   786.4921875,
+   1097.0
+  ],
+  [
+   "hundred",
+   438.3671875,
+   1021.0,
+   641.6328125,
+   1097.0
+  ],
+  [
+   "years ago,",
+   419.0078125,
+   1021.0,
+   660.9921875,
+   1097.0
+  ],
+  [
+   "a towering volcano",
+   321.171875,
+   1021.0,
+   758.828125,
+   1097.0
+  ],
+  [
+   "called Mount",
+   387.1796875,
+   1021.0,
+   692.8203125,
+   1097.0
+  ],
+  [
+   "Mazama erupted.",
+   339.03125,
+   1021.0,
+   740.96875,
+   1097.0
+  ],
+  [
+   "It blasted out",
+   383.5,
+   1021.0,
+   696.5,
+   1097.0
+  ],
+  [
+   "so much ash",
+   393.4609375,
+   1021.0,
+   686.5390625,
+   1097.0
+  ],
+  [
+   "and magma that",
+   350.859375,
+   1021.0,
+   729.140625,
+   1097.0
+  ],
+  [
+   "the top of",
+   424.3828125,
+   1021.0,
+   655.6171875,
+   1097.0
+  ],
+  [
+   "the mountain fell",
+   340.40625,
+   1021.0,
+   739.59375,
+   1097.0
+  ],
+  [
+   "in on itself,",
+   408.9453125,
+   1021.0,
+   671.0546875,
+   1097.0
+  ],
+  [
+   "leaving a giant",
+   369.640625,
+   1021.0,
+   710.359375,
+   1097.0
+  ],
+  [
+   "bowl called",
+   407.0078125,
+   1021.0,
+   672.9921875,
+   1097.0
+  ],
+  [
+   "a caldera.",
+   424.234375,
+   1021.0,
+   655.765625,
+   1097.0
+  ],
+  [
+   "Over the centuries,",
+   316.203125,
+   1021.0,
+   763.796875,
+   1097.0
+  ],
+  [
+   "rain and snow",
+   378.8828125,
+   1021.0,
+   701.1171875,
+   1097.0
+  ],
+  [
+   "slowly filled it.",
+   370.4453125,
+   1021.0,
+   709.5546875,
+   1097.0
+  ],
+  [
+   "No rivers",
+   433.75,
+   1021.0,
+   646.25,
+   1097.0
+  ],
+  [
+   "flow in,",
+   451.671875,
+   1021.0,
+   628.328125,
+   1097.0
+  ],
+  [
+   "and none",
+   430.015625,
+   1021.0,
+   649.984375,
+   1097.0
+  ],
+  [
+   "flow out.",
+   433.75,
+   1021.0,
+   646.25,
+   1097.0
+  ],
+  [
+   "Today the lake",
+   372.5,
+   1021.0,
+   707.5,
+   1097.0
+  ],
+  [
+   "is about nineteen",
+   336.8125,
+   1021.0,
+   743.1875,
+   1097.0
+  ],
+  [
+   "hundred feet deep,",
+   319.4140625,
+   1021.0,
+   760.5859375,
+   1097.0
+  ],
+  [
+   "the deepest in",
+   371.421875,
+   1021.0,
+   708.578125,
+   1097.0
+  ],
+  [
+   "the United States.",
+   327.4765625,
+   1021.0,
+   752.5234375,
+   1097.0
+  ],
+  [
+   "And because almost",
+   306.28125,
+   1021.0,
+   773.71875,
+   1097.0
+  ],
+  [
+   "all of its",
+   444.890625,
+   1021.0,
+   635.109375,
+   1097.0
+  ],
+  [
+   "water falls straight",
+   320.8203125,
+   1021.0,
+   759.1796875,
+   1097.0
+  ],
+  [
+   "from the sky,",
+   388.5546875,
+   1021.0,
+   691.4453125,
+   1097.0
+  ],
+  [
+   "it's one of",
+   424.59375,
+   1021.0,
+   655.40625,
+   1097.0
+  ],
+  [
+   "the clearest,",
+   390.2578125,
+   1021.0,
+   689.7421875,
+   1097.0
+  ],
+  [
+   "bluest lakes",
+   397.6015625,
+   1021.0,
+   682.3984375,
+   1097.0
+  ],
+  [
+   "on Earth.",
+   431.703125,
+   1021.0,
+   648.296875,
+   1097.0
+  ]
+ ]
+}

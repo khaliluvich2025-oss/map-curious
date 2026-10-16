@@ -1,0 +1,562 @@
+[
+ {
+  "w": "The",
+  "start": 0.1,
+  "end": 0.22
+ },
+ {
+  "w": "deepest",
+  "start": 0.22,
+  "end": 0.64
+ },
+ {
+  "w": "lake",
+  "start": 0.64,
+  "end": 0.94
+ },
+ {
+  "w": "in",
+  "start": 0.94,
+  "end": 1.1
+ },
+ {
+  "w": "America",
+  "start": 1.1,
+  "end": 1.56
+ },
+ {
+  "w": "sits",
+  "start": 1.56,
+  "end": 1.98
+ },
+ {
+  "w": "inside",
+  "start": 1.98,
+  "end": 2.44
+ },
+ {
+  "w": "a",
+  "start": 2.44,
+  "end": 2.64
+ },
+ {
+  "w": "volcano",
+  "start": 2.64,
+  "end": 3.1
+ },
+ {
+  "w": "that",
+  "start": 3.1,
+  "end": 3.46
+ },
+ {
+  "w": "collapsed.",
+  "start": 3.46,
+  "end": 4.04
+ },
+ {
+  "w": "It's",
+  "start": 4.86,
+  "end": 5.2
+ },
+ {
+  "w": "Crater",
+  "start": 5.2,
+  "end": 5.42
+ },
+ {
+  "w": "Lake,",
+  "start": 5.42,
+  "end": 5.78
+ },
+ {
+  "w": "high",
+  "start": 6.32,
+  "end": 6.4
+ },
+ {
+  "w": "in",
+  "start": 6.4,
+  "end": 6.58
+ },
+ {
+  "w": "the",
+  "start": 6.58,
+  "end": 6.8
+ },
+ {
+  "w": "Cascade",
+  "start": 6.8,
+  "end": 7.12
+ },
+ {
+  "w": "Mountains",
+  "start": 7.12,
+  "end": 7.5
+ },
+ {
+  "w": "of",
+  "start": 7.5,
+  "end": 7.9
+ },
+ {
+  "w": "southern",
+  "start": 7.9,
+  "end": 8.14
+ },
+ {
+  "w": "Oregon.",
+  "start": 8.14,
+  "end": 8.56
+ },
+ {
+  "w": "About",
+  "start": 9.26,
+  "end": 9.42
+ },
+ {
+  "w": "seventy-seven",
+  "start": 9.42,
+  "end": 9.88
+ },
+ {
+  "w": "hundred",
+  "start": 9.88,
+  "end": 10.34
+ },
+ {
+  "w": "years",
+  "start": 10.34,
+  "end": 10.8
+ },
+ {
+  "w": "ago,",
+  "start": 10.8,
+  "end": 11.2
+ },
+ {
+  "w": "a",
+  "start": 11.54,
+  "end": 11.66
+ },
+ {
+  "w": "towering",
+  "start": 11.64,
+  "end": 12.16
+ },
+ {
+  "w": "volcano",
+  "start": 12.16,
+  "end": 12.78
+ },
+ {
+  "w": "called",
+  "start": 12.78,
+  "end": 13.18
+ },
+ {
+  "w": "Mount",
+  "start": 13.18,
+  "end": 13.46
+ },
+ {
+  "w": "Mazama",
+  "start": 13.46,
+  "end": 13.98
+ },
+ {
+  "w": "erupted.",
+  "start": 13.98,
+  "end": 14.56
+ },
+ {
+  "w": "It",
+  "start": 15.24,
+  "end": 15.36
+ },
+ {
+  "w": "blasted",
+  "start": 15.34,
+  "end": 15.76
+ },
+ {
+  "w": "out",
+  "start": 15.76,
+  "end": 16.0
+ },
+ {
+  "w": "so",
+  "start": 16.0,
+  "end": 16.36
+ },
+ {
+  "w": "much",
+  "start": 16.36,
+  "end": 16.62
+ },
+ {
+  "w": "ash",
+  "start": 16.62,
+  "end": 16.96
+ },
+ {
+  "w": "and",
+  "start": 16.96,
+  "end": 17.16
+ },
+ {
+  "w": "magma",
+  "start": 17.16,
+  "end": 17.64
+ },
+ {
+  "w": "that",
+  "start": 17.64,
+  "end": 18.0
+ },
+ {
+  "w": "the",
+  "start": 18.0,
+  "end": 18.14
+ },
+ {
+  "w": "top",
+  "start": 18.14,
+  "end": 18.4
+ },
+ {
+  "w": "of",
+  "start": 18.4,
+  "end": 18.56
+ },
+ {
+  "w": "the",
+  "start": 18.56,
+  "end": 18.68
+ },
+ {
+  "w": "mountain",
+  "start": 18.68,
+  "end": 19.0
+ },
+ {
+  "w": "fell",
+  "start": 19.0,
+  "end": 19.32
+ },
+ {
+  "w": "in",
+  "start": 19.32,
+  "end": 19.52
+ },
+ {
+  "w": "on",
+  "start": 19.52,
+  "end": 19.66
+ },
+ {
+  "w": "itself,",
+  "start": 19.66,
+  "end": 20.12
+ },
+ {
+  "w": "leaving",
+  "start": 20.55,
+  "end": 20.7
+ },
+ {
+  "w": "a",
+  "start": 20.7,
+  "end": 20.96
+ },
+ {
+  "w": "giant",
+  "start": 20.96,
+  "end": 21.38
+ },
+ {
+  "w": "bowl",
+  "start": 21.38,
+  "end": 21.78
+ },
+ {
+  "w": "called",
+  "start": 21.78,
+  "end": 22.16
+ },
+ {
+  "w": "a",
+  "start": 22.16,
+  "end": 22.32
+ },
+ {
+  "w": "caldera.",
+  "start": 22.32,
+  "end": 22.94
+ },
+ {
+  "w": "Over",
+  "start": 23.53,
+  "end": 23.7
+ },
+ {
+  "w": "the",
+  "start": 23.7,
+  "end": 23.9
+ },
+ {
+  "w": "centuries,",
+  "start": 23.9,
+  "end": 24.4
+ },
+ {
+  "w": "rain",
+  "start": 24.74,
+  "end": 25.06
+ },
+ {
+  "w": "and",
+  "start": 25.06,
+  "end": 25.3
+ },
+ {
+  "w": "snow",
+  "start": 25.3,
+  "end": 25.7
+ },
+ {
+  "w": "slowly",
+  "start": 25.7,
+  "end": 26.34
+ },
+ {
+  "w": "filled",
+  "start": 26.34,
+  "end": 26.64
+ },
+ {
+  "w": "it.",
+  "start": 26.64,
+  "end": 26.89
+ },
+ {
+  "w": "No",
+  "start": 27.37,
+  "end": 27.54
+ },
+ {
+  "w": "rivers",
+  "start": 27.54,
+  "end": 27.84
+ },
+ {
+  "w": "flow",
+  "start": 27.84,
+  "end": 28.12
+ },
+ {
+  "w": "in,",
+  "start": 28.12,
+  "end": 28.46
+ },
+ {
+  "w": "and",
+  "start": 28.46,
+  "end": 28.88
+ },
+ {
+  "w": "none",
+  "start": 28.88,
+  "end": 29.14
+ },
+ {
+  "w": "flow",
+  "start": 29.14,
+  "end": 29.44
+ },
+ {
+  "w": "out.",
+  "start": 29.44,
+  "end": 29.82
+ },
+ {
+  "w": "Today",
+  "start": 30.34,
+  "end": 30.54
+ },
+ {
+  "w": "the",
+  "start": 30.8,
+  "end": 30.98
+ },
+ {
+  "w": "lake",
+  "start": 30.98,
+  "end": 31.14
+ },
+ {
+  "w": "is",
+  "start": 31.14,
+  "end": 31.32
+ },
+ {
+  "w": "about",
+  "start": 31.32,
+  "end": 31.56
+ },
+ {
+  "w": "nineteen",
+  "start": 31.56,
+  "end": 31.99
+ },
+ {
+  "w": "hundred",
+  "start": 31.99,
+  "end": 32.42
+ },
+ {
+  "w": "feet",
+  "start": 32.42,
+  "end": 32.78
+ },
+ {
+  "w": "deep,",
+  "start": 32.78,
+  "end": 33.13
+ },
+ {
+  "w": "the",
+  "start": 33.6,
+  "end": 33.68
+ },
+ {
+  "w": "deepest",
+  "start": 33.68,
+  "end": 34.12
+ },
+ {
+  "w": "in",
+  "start": 34.12,
+  "end": 34.42
+ },
+ {
+  "w": "the",
+  "start": 34.42,
+  "end": 34.5
+ },
+ {
+  "w": "United",
+  "start": 34.5,
+  "end": 34.74
+ },
+ {
+  "w": "States.",
+  "start": 34.74,
+  "end": 35.24
+ },
+ {
+  "w": "And",
+  "start": 35.86,
+  "end": 35.94
+ },
+ {
+  "w": "because",
+  "start": 35.94,
+  "end": 36.2
+ },
+ {
+  "w": "almost",
+  "start": 36.2,
+  "end": 36.56
+ },
+ {
+  "w": "all",
+  "start": 36.56,
+  "end": 36.96
+ },
+ {
+  "w": "of",
+  "start": 36.96,
+  "end": 37.08
+ },
+ {
+  "w": "its",
+  "start": 37.08,
+  "end": 37.22
+ },
+ {
+  "w": "water",
+  "start": 37.22,
+  "end": 37.58
+ },
+ {
+  "w": "falls",
+  "start": 37.58,
+  "end": 37.88
+ },
+ {
+  "w": "straight",
+  "start": 37.88,
+  "end": 38.28
+ },
+ {
+  "w": "from",
+  "start": 38.28,
+  "end": 38.5
+ },
+ {
+  "w": "the",
+  "start": 38.5,
+  "end": 38.66
+ },
+ {
+  "w": "sky,",
+  "start": 38.66,
+  "end": 39.02
+ },
+ {
+  "w": "it's",
+  "start": 39.54,
+  "end": 39.7
+ },
+ {
+  "w": "one",
+  "start": 39.7,
+  "end": 39.82
+ },
+ {
+  "w": "of",
+  "start": 39.82,
+  "end": 39.96
+ },
+ {
+  "w": "the",
+  "start": 39.96,
+  "end": 40.08
+ },
+ {
+  "w": "clearest,",
+  "start": 40.08,
+  "end": 40.64
+ },
+ {
+  "w": "bluest",
+  "start": 41.06,
+  "end": 41.38
+ },
+ {
+  "w": "lakes",
+  "start": 41.38,
+  "end": 41.62
+ },
+ {
+  "w": "on",
+  "start": 41.62,
+  "end": 41.9
+ },
+ {
+  "w": "Earth.",
+  "start": 41.9,
+  "end": 42.25
+ }
+]
