@@ -1,0 +1,814 @@
+{
+ "beats": [
+  [
+   0.0,
+   "New York City pin on the map, Hudson visible"
+  ],
+  [
+   2.56,
+   "Canal line starts digging west from Albany"
+  ],
+  [
+   3.84,
+   "DUG MOSTLY BY HAND chip + shovel"
+  ],
+  [
+   4.7,
+   "NEW YORK CITY label pulses"
+  ],
+  [
+   6.58,
+   "Hero: AMERICA'S BUSIEST PORT"
+  ],
+  [
+   8.66,
+   "Camera pulls back across upstate; ERIE CANAL chip"
+  ],
+  [
+   10.4,
+   "1825"
+  ],
+  [
+   12.8,
+   "Canal draws full length; \u2248363 MILES"
+  ],
+  [
+   14.94,
+   "UPSTATE NEW YORK label"
+  ],
+  [
+   16.52,
+   "ALBANY pin"
+  ],
+  [
+   17.32,
+   "Hudson River glows teal"
+  ],
+  [
+   18.38,
+   "BUFFALO pin"
+  ],
+  [
+   19.12,
+   "LAKE ERIE label"
+  ],
+  [
+   20.66,
+   "Critics chip"
+  ],
+  [
+   21.6,
+   "\"CLINTON'S DITCH\" stamp"
+  ],
+  [
+   23.32,
+   "GOV. DEWITT CLINTON chip"
+  ],
+  [
+   25.03,
+   "Map lifts: schematic elevation profile"
+  ],
+  [
+   25.54,
+   "Land slope draws Albany -> Buffalo"
+  ],
+  [
+   26.3,
+   "\u2248570 FT ruler + hero"
+  ],
+  [
+   29.18,
+   "Staircase of 83 locks builds"
+  ],
+  [
+   29.88,
+   "83 LOCKS hero"
+  ],
+  [
+   30.68,
+   "Boat climbs the lock staircase"
+  ],
+  [
+   31.84,
+   "Boat reaches Lake Erie level"
+  ],
+  [
+   32.64,
+   "Map returns, boats run the canal"
+  ],
+  [
+   33.84,
+   "Shipping cost bars"
+  ],
+  [
+   35.08,
+   "Cost bar shrinks"
+  ],
+  [
+   35.92,
+   "\u224890% CHEAPER"
+  ],
+  [
+   37.68,
+   "Camera heads down the Hudson to New York"
+  ],
+  [
+   38.74,
+   "Boat sails Albany -> New York Harbor"
+  ],
+  [
+   40.5,
+   "Keg tips at the harbor"
+  ],
+  [
+   41.84,
+   "Lake Erie water splashes into the sea"
+  ],
+  [
+   42.84,
+   "ATLANTIC OCEAN + WEDDING OF THE WATERS"
+  ]
+ ],
+ "sfx": [
+  [
+   0.0,
+   "pop",
+   2
+  ],
+  [
+   2.56,
+   "swish",
+   0.0
+  ],
+  [
+   3.84,
+   "tick",
+   0.0
+  ],
+  [
+   4.7,
+   "pop",
+   0.0
+  ],
+  [
+   6.58,
+   "thud",
+   0.0
+  ],
+  [
+   8.66,
+   "whoosh",
+   0.0
+  ],
+  [
+   10.4,
+   "thud",
+   0.0
+  ],
+  [
+   12.8,
+   "swish",
+   0.0
+  ],
+  [
+   14.94,
+   "tick",
+   0.0
+  ],
+  [
+   16.52,
+   "pop",
+   0.0
+  ],
+  [
+   17.32,
+   "tick",
+   0.0
+  ],
+  [
+   18.38,
+   "pop",
+   0.0
+  ],
+  [
+   19.12,
+   "tick",
+   0.0
+  ],
+  [
+   20.66,
+   "tick",
+   0.0
+  ],
+  [
+   21.6,
+   "thud",
+   0.0
+  ],
+  [
+   23.32,
+   "pop",
+   0.0
+  ],
+  [
+   25.03,
+   "whoosh",
+   0.0
+  ],
+  [
+   25.54,
+   "swish",
+   0.0
+  ],
+  [
+   26.3,
+   "thud",
+   0.0
+  ],
+  [
+   29.18,
+   "rumble",
+   0.0
+  ],
+  [
+   29.88,
+   "pop",
+   0.0
+  ],
+  [
+   30.68,
+   "swish",
+   0.0
+  ],
+  [
+   31.84,
+   "tick",
+   0.0
+  ],
+  [
+   32.64,
+   "whoosh",
+   0.0
+  ],
+  [
+   33.84,
+   "tick",
+   0.0
+  ],
+  [
+   35.08,
+   "swish",
+   0.0
+  ],
+  [
+   35.92,
+   "thud",
+   0.0
+  ],
+  [
+   37.68,
+   "whoosh",
+   0.0
+  ],
+  [
+   38.74,
+   "swish",
+   0.0
+  ],
+  [
+   40.5,
+   "pop",
+   0.0
+  ],
+  [
+   41.84,
+   "swish",
+   0.0
+  ],
+  [
+   42.84,
+   "pop",
+   0.0
+  ]
+ ],
+ "captions": [
+  {
+   "start": 0.02,
+   "end": 0.81,
+   "text": "Just over two"
+  },
+  {
+   "start": 0.81,
+   "end": 2.5,
+   "text": "hundred years ago,"
+  },
+  {
+   "start": 2.5,
+   "end": 3.08,
+   "text": "a ditch dug"
+  },
+  {
+   "start": 3.08,
+   "end": 4.26,
+   "text": "mostly by hand"
+  },
+  {
+   "start": 4.26,
+   "end": 5.14,
+   "text": "turned New York"
+  },
+  {
+   "start": 5.14,
+   "end": 6.52,
+   "text": "City into America's"
+  },
+  {
+   "start": 6.52,
+   "end": 7.85,
+   "text": "busiest port."
+  },
+  {
+   "start": 8.36,
+   "end": 8.6,
+   "text": "It's the"
+  },
+  {
+   "start": 8.6,
+   "end": 9.8,
+   "text": "Erie Canal,"
+  },
+  {
+   "start": 9.8,
+   "end": 10.34,
+   "text": "opened in"
+  },
+  {
+   "start": 10.34,
+   "end": 12.2,
+   "text": "eighteen twenty-five."
+  },
+  {
+   "start": 12.2,
+   "end": 12.74,
+   "text": "It ran about"
+  },
+  {
+   "start": 12.74,
+   "end": 13.353,
+   "text": "three hundred"
+  },
+  {
+   "start": 13.353,
+   "end": 13.66,
+   "text": "sixty-three"
+  },
+  {
+   "start": 13.66,
+   "end": 15.42,
+   "text": "miles across upstate"
+  },
+  {
+   "start": 15.42,
+   "end": 16.34,
+   "text": "New York,"
+  },
+  {
+   "start": 16.34,
+   "end": 17.12,
+   "text": "from Albany on"
+  },
+  {
+   "start": 17.12,
+   "end": 18.23,
+   "text": "the Hudson River"
+  },
+  {
+   "start": 18.23,
+   "end": 19.06,
+   "text": "to Buffalo on"
+  },
+  {
+   "start": 19.06,
+   "end": 19.99,
+   "text": "Lake Erie."
+  },
+  {
+   "start": 20.6,
+   "end": 21.28,
+   "text": "Critics mocked it"
+  },
+  {
+   "start": 21.28,
+   "end": 22.54,
+   "text": "as Clinton's Ditch,"
+  },
+  {
+   "start": 22.54,
+   "end": 23.66,
+   "text": "after Governor"
+  },
+  {
+   "start": 23.66,
+   "end": 25.16,
+   "text": "DeWitt Clinton."
+  },
+  {
+   "start": 25.16,
+   "end": 25.94,
+   "text": "The land rises"
+  },
+  {
+   "start": 25.94,
+   "end": 26.867,
+   "text": "about five hundred"
+  },
+  {
+   "start": 26.867,
+   "end": 28.3,
+   "text": "seventy feet,"
+  },
+  {
+   "start": 28.3,
+   "end": 29.12,
+   "text": "so builders needed"
+  },
+  {
+   "start": 29.12,
+   "end": 30.62,
+   "text": "eighty-three locks to"
+  },
+  {
+   "start": 30.62,
+   "end": 31.66,
+   "text": "lift boats up"
+  },
+  {
+   "start": 31.66,
+   "end": 32.68,
+   "text": "and over."
+  },
+  {
+   "start": 32.68,
+   "end": 33.74,
+   "text": "Once it opened,"
+  },
+  {
+   "start": 33.74,
+   "end": 34.26,
+   "text": "the cost of"
+  },
+  {
+   "start": 34.26,
+   "end": 35.28,
+   "text": "shipping goods fell"
+  },
+  {
+   "start": 35.28,
+   "end": 35.86,
+   "text": "by roughly"
+  },
+  {
+   "start": 35.86,
+   "end": 37.52,
+   "text": "ninety percent."
+  },
+  {
+   "start": 37.52,
+   "end": 38.62,
+   "text": "To celebrate,"
+  },
+  {
+   "start": 38.62,
+   "end": 39.46,
+   "text": "Clinton sailed down"
+  },
+  {
+   "start": 39.46,
+   "end": 40.14,
+   "text": "to New York"
+  },
+  {
+   "start": 40.14,
+   "end": 40.86,
+   "text": "and poured a"
+  },
+  {
+   "start": 40.86,
+   "end": 41.58,
+   "text": "keg of Lake"
+  },
+  {
+   "start": 41.58,
+   "end": 42.58,
+   "text": "Erie water into"
+  },
+  {
+   "start": 42.58,
+   "end": 43.833,
+   "text": "the Atlantic."
+  }
+ ],
+ "caption_bounds": [
+  [
+   "Just over two",
+   382.671875,
+   1021.0,
+   697.328125,
+   1097.0
+  ],
+  [
+   "hundred years ago,",
+   318.7734375,
+   1021.0,
+   761.2265625,
+   1097.0
+  ],
+  [
+   "a ditch dug",
+   409.3046875,
+   1021.0,
+   670.6953125,
+   1097.0
+  ],
+  [
+   "mostly by hand",
+   363.828125,
+   1021.0,
+   716.171875,
+   1097.0
+  ],
+  [
+   "turned New York",
+   349.4765625,
+   1021.0,
+   730.5234375,
+   1097.0
+  ],
+  [
+   "City into America's",
+   322.453125,
+   1021.0,
+   757.546875,
+   1097.0
+  ],
+  [
+   "busiest port.",
+   388.4453125,
+   1021.0,
+   691.5546875,
+   1097.0
+  ],
+  [
+   "It's the",
+   456.4765625,
+   1021.0,
+   623.5234375,
+   1097.0
+  ],
+  [
+   "Erie Canal,",
+   412.8984375,
+   1021.0,
+   667.1015625,
+   1097.0
+  ],
+  [
+   "opened in",
+   422.796875,
+   1021.0,
+   657.203125,
+   1097.0
+  ],
+  [
+   "eighteen twenty-five.",
+   288.9765625,
+   1021.0,
+   791.0234375,
+   1097.0
+  ],
+  [
+   "It ran about",
+   403.4921875,
+   1021.0,
+   676.5078125,
+   1097.0
+  ],
+  [
+   "three hundred",
+   371.7109375,
+   1021.0,
+   708.2890625,
+   1097.0
+  ],
+  [
+   "sixty-three",
+   406.984375,
+   1021.0,
+   673.015625,
+   1097.0
+  ],
+  [
+   "miles across upstate",
+   299.921875,
+   1021.0,
+   780.078125,
+   1097.0
+  ],
+  [
+   "New York,",
+   423.8828125,
+   1021.0,
+   656.1171875,
+   1097.0
+  ],
+  [
+   "from Albany on",
+   364.5859375,
+   1021.0,
+   715.4140625,
+   1097.0
+  ],
+  [
+   "the Hudson River",
+   340.1953125,
+   1021.0,
+   739.8046875,
+   1097.0
+  ],
+  [
+   "to Buffalo on",
+   391.40625,
+   1021.0,
+   688.59375,
+   1097.0
+  ],
+  [
+   "Lake Erie.",
+   426.359375,
+   1021.0,
+   653.640625,
+   1097.0
+  ],
+  [
+   "Critics mocked it",
+   341.84375,
+   1021.0,
+   738.15625,
+   1097.0
+  ],
+  [
+   "as Clinton's Ditch,",
+   330.734375,
+   1021.0,
+   749.265625,
+   1097.0
+  ],
+  [
+   "after Governor",
+   368.765625,
+   1021.0,
+   711.234375,
+   1097.0
+  ],
+  [
+   "DeWitt Clinton.",
+   360.3125,
+   1021.0,
+   719.6875,
+   1097.0
+  ],
+  [
+   "The land rises",
+   377.75,
+   1021.0,
+   702.25,
+   1097.0
+  ],
+  [
+   "about five hundred",
+   319.53125,
+   1021.0,
+   760.46875,
+   1097.0
+  ],
+  [
+   "seventy feet,",
+   385.59375,
+   1021.0,
+   694.40625,
+   1097.0
+  ],
+  [
+   "so builders needed",
+   320.15625,
+   1021.0,
+   759.84375,
+   1097.0
+  ],
+  [
+   "eighty-three locks to",
+   296.71875,
+   1021.0,
+   783.28125,
+   1097.0
+  ],
+  [
+   "lift boats up",
+   398.15625,
+   1021.0,
+   681.84375,
+   1097.0
+  ],
+  [
+   "and over.",
+   431.6796875,
+   1021.0,
+   648.3203125,
+   1097.0
+  ],
+  [
+   "Once it opened,",
+   356.4609375,
+   1021.0,
+   723.5390625,
+   1097.0
+  ],
+  [
+   "the cost of",
+   412.75,
+   1021.0,
+   667.25,
+   1097.0
+  ],
+  [
+   "shipping goods fell",
+   320.1484375,
+   1021.0,
+   759.8515625,
+   1097.0
+  ],
+  [
+   "by roughly",
+   415.671875,
+   1021.0,
+   664.328125,
+   1097.0
+  ],
+  [
+   "ninety percent.",
+   360.125,
+   1021.0,
+   719.875,
+   1097.0
+  ],
+  [
+   "To celebrate,",
+   387.640625,
+   1021.0,
+   692.359375,
+   1097.0
+  ],
+  [
+   "Clinton sailed down",
+   311.203125,
+   1021.0,
+   768.796875,
+   1097.0
+  ],
+  [
+   "to New York",
+   402.6015625,
+   1021.0,
+   677.3984375,
+   1097.0
+  ],
+  [
+   "and poured a",
+   388.203125,
+   1021.0,
+   691.796875,
+   1097.0
+  ],
+  [
+   "keg of Lake",
+   408.390625,
+   1021.0,
+   671.609375,
+   1097.0
+  ],
+  [
+   "Erie water into",
+   371.1640625,
+   1021.0,
+   708.8359375,
+   1097.0
+  ],
+  [
+   "the Atlantic.",
+   392.9609375,
+   1021.0,
+   687.0390625,
+   1097.0
+  ]
+ ]
+}

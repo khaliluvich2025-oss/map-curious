@@ -15,7 +15,7 @@ from engine import EDIT, VO, W, H, FPS, SR, sfx, SFX_LEVEL
 
 EPISODES = {'01': 'ep01_fort_jefferson', '02': 'ep02_db_cooper', '03': 'ep03_centralia', '04': 'ep04_underwater_waterfall',
             '05': 'ep05_mount_st_helens', '06': 'ep06_niagara_falls', '07': 'ep07_iceland_rift', '08': 'ep08_overseas_highway',
-            '09': 'ep09_chicxulub_crater', '10': 'ep10_crater_lake'}
+            '09': 'ep09_chicxulub_crater', '10': 'ep10_crater_lake', '11': 'ep11_erie_canal'}
 NARRATION_GAIN_DB = 8.0
 TMP = EDIT / '_render_tmp'
 
