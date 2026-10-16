@@ -136,6 +136,7 @@ def contact(key, times, cols=6, scale=.25, captions=True):
         im = ep.frame(t, captions).resize((w, h), Image.LANCZOS)
         x, y = (i % cols) * w, (i // cols) * (h + 26)
         sheet.paste(im, (x, y + 26)); d.text((x + 6, y + 4), f'{t:.2f}s', fill=(255, 255, 255))
+    (EDIT / 'qa').mkdir(exist_ok=True)
     p = EDIT / 'qa' / f'{key}_contact_{times[0]:.0f}-{times[-1]:.0f}.jpg'
     sheet.save(p, quality=85)
     return p

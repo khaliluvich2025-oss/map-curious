@@ -1,8 +1,9 @@
 # Map Curious — daily cloud run (one finished video)
 
 You are running unattended in a cloud session with this repo checked out. Nobody will answer questions.
-Produce ONE new finished Map Curious vertical video, commit it to `ready/`, push, and stop.
-NEVER publish or schedule anything on social media / Metricool.
+Produce ONE new finished Map Curious vertical video, commit it to `ready/`, push, then schedule it in
+Metricool (step 9) for 13:00 Morocco time, and stop. Post ONLY through step 9, ONLY to the MapCurious brand,
+and only after the video passed the checks in step 7.
 
 Paths below are relative to the repo root.
 
@@ -94,5 +95,29 @@ git add -A && git commit -m "Map Curious NN: <topic>" && git push origin HEAD
 ```
 (If pushing to the default branch is refused, push a branch named `video/NN-slug` instead.)
 
-## 9. Report
-Short summary: topic, length, `ready/NN_Slug/` path, ElevenLabs credits used, anything you could not fix.
+## 9. Schedule the posts in Metricool (after the push succeeded)
+The repo is public, so the pushed video has a public URL:
+`https://raw.githubusercontent.com/khaliluvich2025-oss/map-curious/main/ready/NN_Slug/NN_Slug_Final.mp4`
+(if you pushed a branch instead of main, use that branch name). Check it first:
+`curl -sI <url>` must return 200 and the right Content-Length. If not, wait 60 s and retry (max 3 tries).
+
+Use the Metricool connector (tool names may be prefixed):
+1. `getBrandSettings` → use ONLY the brand whose label is `MapCurious` (blogId should be 6812967). Never touch other brands.
+2. Publish time: **13:00 Africa/Casablanca today**. Offset: `TZ=Africa/Casablanca date +%:z`.
+   `date` = `YYYY-MM-DDT13:00:00<offset>`; `publicationDate` = `{"dateTime":"YYYY-MM-DDT13:00:00","timezone":"Africa/Casablanca"}`.
+   If 13:00 has already passed, use the next full hour at least 30 minutes ahead.
+3. Create FOUR separate scheduled posts with `createScheduledPost` (one network each, `autoPublish: true`, `draft: false`,
+   `media: [<raw URL>]`), texts taken from `captions.txt`:
+   - Instagram: `providers:[{"network":"instagram"}]`, `instagramData: {"type":"REEL","showReelOnFeed":true}`, text = INSTAGRAM block.
+   - Facebook: `providers:[{"network":"facebook"}]`, `facebookData: {"type":"REEL","title":<YouTube title>}`, text = FACEBOOK block.
+   - TikTok: `providers:[{"network":"tiktok"}]`, `tiktokData: {"privacyOption":"PUBLIC_TO_EVERYONE","disableComment":false,"disableDuet":false,"disableStitch":false}`, text = TIKTOK block.
+   - YouTube: `providers:[{"network":"youtube"}]`, `youtubeData: {"title":<YouTube title>,"type":"short","privacy":"public","tags":[<YouTube tags>],"category":"EDUCATION","madeForKids":false}`,
+     text = a 2–3 sentence description + "Sources: …" + `#Shorts #MapCurious`.
+   Include the other required fields (`descendants: []`, `firstCommentText: ""`, `hasNotReadNotes: false`, `mediaAltText: []`,
+   `shortener: false`, `smartLinkData: {"ids": []}`).
+4. If a post fails, retry that one post once. Never create duplicates; never edit or delete existing posts.
+   If posting still fails, leave the video in `ready/` and report the exact error.
+
+## 10. Report
+Short summary: topic, length, `ready/NN_Slug/` path, ElevenLabs credits used, Metricool post links/time
+(or the posting error), anything you could not fix.
