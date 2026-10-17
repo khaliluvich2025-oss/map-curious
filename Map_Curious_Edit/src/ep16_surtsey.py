@@ -16,6 +16,7 @@ from ep04_underwater_waterfall import EP as EP4
 SURTSEY = (-20.605, 63.303)
 HEIMAEY = (-20.27, 63.44)
 BX0, BX1, BY0, BY1 = 60, 1020, 330, 930
+PX0, PX1, PY = 110, 1010, 225      # enlarged crop of the panel and its screen top
 SEA = 540
 FLOOR = 860
 CX = 560
@@ -387,11 +388,11 @@ class EP(Episode):
             if a <= t < a + .5:
                 shake = math.sin(t * 63) * 7 * (1 - (t - a) / .5)
         paste(cv, with_alpha(sec, al), BX0 + shake, BY0)
-        label(cv, 'SCHEMATIC · NOT TO SCALE', 82, 908, t, 0, None, 19, (225, 230, 225), rise=0, anchor='l')
-        label(cv, 'SEA LEVEL', 90, SEA - 22, t, 0, None, 22, WHITE, rise=0, anchor='l')
+        label(cv, 'SCHEMATIC · NOT TO SCALE', 125, 908, t, 0, None, 19, (225, 230, 225), rise=0, anchor='l')
+        label(cv, 'SEA LEVEL', 125, SEA - 22, t, 0, None, 22, WHITE, rise=0, anchor='l')
         top, pw, xr, right = self.state(t)
         if t < self.up2 - .1:
-            label(cv, 'SEAFLOOR', 90, FLOOR - 22, t, 0, T['within'], 22, (230, 215, 195), rise=0, anchor='l')
+            label(cv, 'SEAFLOOR', 125, FLOOR - 22, t, 0, T['within'], 22, (230, 215, 195), rise=0, anchor='l')
             label(cv, 'UNDERWATER VOLCANO', CX, 700, t, T['volcano'], T['within'], 30, WHITE, rise=6)
             label(cv, 'MAGMA', CX + 110, FLOOR + 48, t, T['volcano'] + .3, T['y1967'] + .5, 24, YEL, rise=0, anchor='l')
             label(cv, 'BUILDING UP', 800, 680, t, T['within'] + .2, T['broke'], 28, (170, 225, 245), rise=6)
@@ -421,9 +422,13 @@ class EP(Episode):
         u = self.up(t)
         if u > 0:
             cv.alpha_composite(_bg())
-            self.panel(cv, t, clamp(u * 1.5))
+            # draw the panel at its native size, then enlarge it to full frame width (y 225-945)
+            tmp = Image.new('RGBA', (W, H), (0, 0, 0, 0))
+            self.panel(tmp, t, clamp(u * 1.5))
+            big = tmp.crop((PX0, BY0, PX1, BY1)).resize((W, round((BY1 - BY0) * W / (PX1 - PX0))), Image.LANCZOS)
+            cv.alpha_composite(big, (0, PY))
             ttl = 'UNDERWATER ERUPTION · 1963' if t < self.up2 - .1 else 'SURTSEY · A NATURAL LAB'
-            label(cv, ttl, 540, 280, t, 0, None, 28, WHITE, rise=0)
+            label(cv, ttl, 540, PY - 42, t, 0, None, 32, WHITE, rise=0)
         if u < 1:
             slide_map(cv, self.map_layer(t, st), -H * u)
         # lower info area --------------------------------------------------------
