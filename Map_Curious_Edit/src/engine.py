@@ -4,12 +4,16 @@ Everything is drawn procedurally per frame with Pillow at 1080x1920 and piped to
 ffmpeg.  Episodes (ep01..ep04) only describe *what* happens *when*; this module
 provides the camera, layer primitives, captions, sound design and export.
 """
-import math, json, re, functools
+import math, json, re, functools, os
 from pathlib import Path
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageEnhance
 
-W, H, FPS = 1080, 1920, 24
+# Map images are always 1080x1920 (map px).  MC_LANDSCAPE=1 switches the output canvas to 16:9 (long-form).
+LANDSCAPE = os.environ.get('MC_LANDSCAPE') == '1'
+MW, MH = 1080, 1920
+W, H = (1920, 1080) if LANDSCAPE else (MW, MH)
+FPS = 24
 EDIT = Path(__file__).resolve().parents[1]
 ROOT = EDIT.parent
 GFX = ROOT / '2026-10-14_Map_Curious_Graphics'
@@ -28,6 +32,10 @@ OUTLINE = (6, 15, 23)
 CAP_X0, CAP_X1, CAP_Y0, CAP_Y1 = 250, 830, 970, 1148
 CAP_CY = 1059
 CAP_SIZE = 46
+if LANDSCAPE:   # 16:9: bottom band, centred
+    CAP_X0, CAP_X1, CAP_Y0, CAP_Y1 = 400, 1520, 925, 1035
+    CAP_CY = 980
+    CAP_SIZE = 44
 CAP_MAXW = CAP_X1 - CAP_X0
 
 
@@ -298,7 +306,7 @@ def route(cv, pts, p, color=LIME, width=8, head=True, alpha=1.0, dashed=False, d
 class Cam:
     """Keyframed map camera. keys: [(t, cx, cy, z)] in map-pixel coords."""
 
-    def __init__(self, keys, mw=W, mh=H, zmin=1.0):
+    def __init__(self, keys, mw=MW, mh=MH, zmin=1.0):
         self.keys = sorted(keys); self.mw, self.mh, self.zmin = mw, mh, zmin
 
     def at(self, t):
@@ -642,13 +650,13 @@ class Captions:
         g = self.groups[i]
         im, _ = self._img(i)
         p = e_out((t - g['start']) / .14)
-        place(cv, im, 540, CAP_CY + (1 - p) * 10, 0.94 + 0.06 * p, clamp(p * 1.4))
+        place(cv, im, W / 2, CAP_CY + (1 - p) * 10, 0.94 + 0.06 * p, clamp(p * 1.4))
 
     def bounds(self):
         rows = []
         for i, g in enumerate(self.groups):
             _, (tw, th) = self._img(i)
-            rows.append((g['text'], 540 - tw / 2, CAP_CY - th / 2, 540 + tw / 2, CAP_CY + th / 2))
+            rows.append((g['text'], W / 2 - tw / 2, CAP_CY - th / 2, W / 2 + tw / 2, CAP_CY + th / 2))
         return rows
 
     def srt(self):
@@ -663,6 +671,14 @@ class Captions:
 def vignette():
     a = np.zeros((H, W), np.float32)
     y = np.arange(H, dtype=np.float32)[:, None]
+    if LANDSCAPE:
+        x = np.arange(W, dtype=np.float32)[None, :]
+        a += np.clip((y - 840) / 240, 0, 1) ** 1.4 * 150           # bottom fade under captions
+        r = np.sqrt(((x - 960) / 1250) ** 2 + ((y - 520) / 760) ** 2)
+        a += np.clip(r - .55, 0, 1) * 160
+        im = Image.new('RGBA', (W, H), col(OUTLINE, 0))
+        im.putalpha(Image.fromarray(np.clip(a, 0, 215).astype(np.uint8)))
+        return im
     a += np.clip((260 - y) / 260, 0, 1) ** 1.6 * 150          # top fade (status bar)
     a += np.clip((y - 1560) / 360, 0, 1) ** 1.4 * 170         # bottom fade (UI)
     x = np.arange(W, dtype=np.float32)[None, :]

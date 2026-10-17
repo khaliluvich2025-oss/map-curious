@@ -54,7 +54,7 @@ class Episode:
     # ---- geography
     def geo(self, lon, lat):
         b = self.bbox
-        return ((lon - b[0]) / (b[2] - b[0]) * W, (b[3] - lat) / (b[3] - b[1]) * H)
+        return ((lon - b[0]) / (b[2] - b[0]) * MW, (b[3] - lat) / (b[3] - b[1]) * MH)
 
     def base_map(self, bright=.80, sat=1.05, contrast=1.06):
         im = Image.open(self.G / 'map_terrain.jpg').convert('RGB')
