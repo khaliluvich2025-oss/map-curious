@@ -1,0 +1,814 @@
+{
+ "beats": [
+  [
+   0.0,
+   "Seattle pin with Rainier on the map"
+  ],
+  [
+   0.3,
+   "Volcano icon pops at Rainier"
+  ],
+  [
+   2.16,
+   "Volcano pulses"
+  ],
+  [
+   2.86,
+   "DANGEROUS VOLCANO label pulses red"
+  ],
+  [
+   3.88,
+   "Sightline from downtown Seattle to the peak"
+  ],
+  [
+   5.5,
+   "Camera pushes to the summit; MOUNT RAINIER chip"
+  ],
+  [
+   6.62,
+   "Hero: 14,400 FT"
+  ],
+  [
+   9.06,
+   "Camera pulls back to Seattle"
+  ],
+  [
+   9.28,
+   "Distance line \u224860 MI"
+  ],
+  [
+   10.14,
+   "SOUTHEAST OF SEATTLE chip"
+  ],
+  [
+   12.6,
+   "Glacier ice spreads over the peak"
+  ],
+  [
+   14.04,
+   "MOST GLACIER ICE chip"
+  ],
+  [
+   14.96,
+   "Pull back: Washington outlined, LOWER 48 chip"
+  ],
+  [
+   16.83,
+   "Ice glows"
+  ],
+  [
+   18.02,
+   "Zoom in; DANGER stamp"
+  ],
+  [
+   19.78,
+   "Volcano heats up (orange glow)"
+  ],
+  [
+   20.92,
+   "Ice melts to blue water"
+  ],
+  [
+   22.32,
+   "Water mixes with rock"
+  ],
+  [
+   23.1,
+   "MELTWATER + ROCK chip"
+  ],
+  [
+   23.77,
+   "Mudflows race down the valleys"
+  ],
+  [
+   25.66,
+   "LAHARS chip"
+  ],
+  [
+   26.97,
+   "Hero: \u22485,600 YEARS AGO"
+  ],
+  [
+   29.62,
+   "Osceola Mudflow traces down the White River"
+  ],
+  [
+   30.56,
+   "PUGET SOUND label"
+  ],
+  [
+   32.68,
+   "AUBURN pin"
+  ],
+  [
+   34.5,
+   "Valley towns appear"
+  ],
+  [
+   36.76,
+   "Old lahar deposits shaded under towns"
+  ],
+  [
+   38.88,
+   "Warning sirens pulse"
+  ],
+  [
+   40.06,
+   "Evacuation arrows lead to high ground"
+  ],
+  [
+   41.72,
+   "Back to the summit"
+  ],
+  [
+   42.52,
+   "Summit glows: last eruption"
+  ],
+  [
+   43.86,
+   "Hero: \u22481,000 YEARS AGO"
+  ]
+ ],
+ "sfx": [
+  [
+   0.0,
+   "pop",
+   2
+  ],
+  [
+   0.3,
+   "pop",
+   0.0
+  ],
+  [
+   2.16,
+   "tick",
+   0.0
+  ],
+  [
+   2.86,
+   "tick",
+   0.0
+  ],
+  [
+   3.88,
+   "swish",
+   0.0
+  ],
+  [
+   5.5,
+   "whoosh",
+   0.0
+  ],
+  [
+   6.62,
+   "thud",
+   0.0
+  ],
+  [
+   9.06,
+   "whoosh",
+   0.0
+  ],
+  [
+   9.28,
+   "tick",
+   0.0
+  ],
+  [
+   10.14,
+   "tick",
+   0.0
+  ],
+  [
+   12.6,
+   "swish",
+   0.0
+  ],
+  [
+   14.04,
+   "pop",
+   0.0
+  ],
+  [
+   14.96,
+   "whoosh",
+   0.0
+  ],
+  [
+   16.83,
+   "tick",
+   0.0
+  ],
+  [
+   18.02,
+   "thud",
+   2
+  ],
+  [
+   19.78,
+   "rumble",
+   0.0
+  ],
+  [
+   20.92,
+   "swish",
+   0.0
+  ],
+  [
+   22.32,
+   "tick",
+   0.0
+  ],
+  [
+   23.1,
+   "pop",
+   0.0
+  ],
+  [
+   23.77,
+   "rumble",
+   2
+  ],
+  [
+   25.66,
+   "pop",
+   0.0
+  ],
+  [
+   26.97,
+   "thud",
+   0.0
+  ],
+  [
+   29.62,
+   "whoosh",
+   0.0
+  ],
+  [
+   30.56,
+   "tick",
+   0.0
+  ],
+  [
+   32.68,
+   "pop",
+   0.0
+  ],
+  [
+   34.5,
+   "tick",
+   0.0
+  ],
+  [
+   36.76,
+   "swish",
+   0.0
+  ],
+  [
+   38.88,
+   "pop",
+   2
+  ],
+  [
+   40.06,
+   "swish",
+   0.0
+  ],
+  [
+   41.72,
+   "whoosh",
+   0.0
+  ],
+  [
+   42.52,
+   "rumble",
+   0.0
+  ],
+  [
+   43.86,
+   "thud",
+   0.0
+  ]
+ ],
+ "captions": [
+  {
+   "start": 0.07,
+   "end": 0.94,
+   "text": "Seattle can see"
+  },
+  {
+   "start": 0.94,
+   "end": 1.82,
+   "text": "one of America's"
+  },
+  {
+   "start": 1.82,
+   "end": 2.8,
+   "text": "most dangerous"
+  },
+  {
+   "start": 2.8,
+   "end": 3.6,
+   "text": "volcanoes"
+  },
+  {
+   "start": 3.6,
+   "end": 4.75,
+   "text": "from downtown."
+  },
+  {
+   "start": 5.44,
+   "end": 6.2,
+   "text": "Mount Rainier rises"
+  },
+  {
+   "start": 6.2,
+   "end": 7.31,
+   "text": "about fourteen thousand"
+  },
+  {
+   "start": 7.31,
+   "end": 9.0,
+   "text": "four hundred feet,"
+  },
+  {
+   "start": 9.0,
+   "end": 10.08,
+   "text": "roughly sixty miles"
+  },
+  {
+   "start": 10.08,
+   "end": 10.76,
+   "text": "southeast of"
+  },
+  {
+   "start": 10.76,
+   "end": 11.86,
+   "text": "the city."
+  },
+  {
+   "start": 11.86,
+   "end": 12.54,
+   "text": "It holds more"
+  },
+  {
+   "start": 12.54,
+   "end": 13.52,
+   "text": "glacier ice than"
+  },
+  {
+   "start": 13.52,
+   "end": 14.56,
+   "text": "any other peak"
+  },
+  {
+   "start": 14.56,
+   "end": 15.12,
+   "text": "in the lower"
+  },
+  {
+   "start": 15.12,
+   "end": 16.77,
+   "text": "forty-eight states."
+  },
+  {
+   "start": 16.77,
+   "end": 17.78,
+   "text": "That ice is"
+  },
+  {
+   "start": 17.78,
+   "end": 19.07,
+   "text": "the danger."
+  },
+  {
+   "start": 19.07,
+   "end": 19.72,
+   "text": "If the volcano"
+  },
+  {
+   "start": 19.72,
+   "end": 20.86,
+   "text": "heats up,"
+  },
+  {
+   "start": 20.86,
+   "end": 21.72,
+   "text": "melting snow and"
+  },
+  {
+   "start": 21.72,
+   "end": 22.52,
+   "text": "ice can mix"
+  },
+  {
+   "start": 22.52,
+   "end": 23.71,
+   "text": "with loose rock,"
+  },
+  {
+   "start": 23.71,
+   "end": 25.22,
+   "text": "creating huge mudflows"
+  },
+  {
+   "start": 25.22,
+   "end": 26.91,
+   "text": "called lahars."
+  },
+  {
+   "start": 26.91,
+   "end": 28.1,
+   "text": "About fifty-six hundred"
+  },
+  {
+   "start": 28.1,
+   "end": 29.18,
+   "text": "years ago,"
+  },
+  {
+   "start": 29.18,
+   "end": 29.56,
+   "text": "one of these"
+  },
+  {
+   "start": 29.56,
+   "end": 30.5,
+   "text": "flows reached the"
+  },
+  {
+   "start": 30.5,
+   "end": 31.98,
+   "text": "Puget Sound lowlands,"
+  },
+  {
+   "start": 31.98,
+   "end": 32.62,
+   "text": "where towns like"
+  },
+  {
+   "start": 32.62,
+   "end": 34.44,
+   "text": "Auburn stand today."
+  },
+  {
+   "start": 34.44,
+   "end": 35.58,
+   "text": "Many communities now"
+  },
+  {
+   "start": 35.58,
+   "end": 36.4,
+   "text": "sit on old"
+  },
+  {
+   "start": 36.4,
+   "end": 37.5,
+   "text": "lahar deposits,"
+  },
+  {
+   "start": 37.5,
+   "end": 38.16,
+   "text": "so the valleys"
+  },
+  {
+   "start": 38.16,
+   "end": 39.28,
+   "text": "have warning sirens"
+  },
+  {
+   "start": 39.28,
+   "end": 40.0,
+   "text": "and marked"
+  },
+  {
+   "start": 40.0,
+   "end": 41.66,
+   "text": "evacuation routes."
+  },
+  {
+   "start": 41.66,
+   "end": 42.46,
+   "text": "And Rainier last"
+  },
+  {
+   "start": 42.46,
+   "end": 43.68,
+   "text": "erupted only about"
+  },
+  {
+   "start": 43.68,
+   "end": 44.22,
+   "text": "a thousand"
+  },
+  {
+   "start": 44.22,
+   "end": 45.417,
+   "text": "years ago."
+  }
+ ],
+ "caption_bounds": [
+  [
+   "Seattle can see",
+   360.609375,
+   1021.0,
+   719.390625,
+   1097.0
+  ],
+  [
+   "one of America's",
+   348.6640625,
+   1021.0,
+   731.3359375,
+   1097.0
+  ],
+  [
+   "most dangerous",
+   350.0703125,
+   1021.0,
+   729.9296875,
+   1097.0
+  ],
+  [
+   "volcanoes",
+   418.203125,
+   1021.0,
+   661.796875,
+   1097.0
+  ],
+  [
+   "from downtown.",
+   349.9140625,
+   1021.0,
+   730.0859375,
+   1097.0
+  ],
+  [
+   "Mount Rainier rises",
+   315.203125,
+   1021.0,
+   764.796875,
+   1097.0
+  ],
+  [
+   "about fourteen thousand",
+   250.4296875,
+   1021.0,
+   829.5703125,
+   1097.0
+  ],
+  [
+   "four hundred feet,",
+   328.3671875,
+   1021.0,
+   751.6328125,
+   1097.0
+  ],
+  [
+   "roughly sixty miles",
+   321.0625,
+   1021.0,
+   758.9375,
+   1097.0
+  ],
+  [
+   "southeast of",
+   389.6875,
+   1021.0,
+   690.3125,
+   1097.0
+  ],
+  [
+   "the city.",
+   442.21875,
+   1021.0,
+   637.78125,
+   1097.0
+  ],
+  [
+   "It holds more",
+   386.4765625,
+   1021.0,
+   693.5234375,
+   1097.0
+  ],
+  [
+   "glacier ice than",
+   360.1875,
+   1021.0,
+   719.8125,
+   1097.0
+  ],
+  [
+   "any other peak",
+   367.1875,
+   1021.0,
+   712.8125,
+   1097.0
+  ],
+  [
+   "in the lower",
+   402.0625,
+   1021.0,
+   677.9375,
+   1097.0
+  ],
+  [
+   "forty-eight states.",
+   324.8359375,
+   1021.0,
+   755.1640625,
+   1097.0
+  ],
+  [
+   "That ice is",
+   419.2890625,
+   1021.0,
+   660.7109375,
+   1097.0
+  ],
+  [
+   "the danger.",
+   404.84375,
+   1021.0,
+   675.15625,
+   1097.0
+  ],
+  [
+   "If the volcano",
+   381.0625,
+   1021.0,
+   698.9375,
+   1097.0
+  ],
+  [
+   "heats up,",
+   429.0390625,
+   1021.0,
+   650.9609375,
+   1097.0
+  ],
+  [
+   "melting snow and",
+   335.3359375,
+   1021.0,
+   744.6640625,
+   1097.0
+  ],
+  [
+   "ice can mix",
+   408.9140625,
+   1021.0,
+   671.0859375,
+   1097.0
+  ],
+  [
+   "with loose rock,",
+   355.53125,
+   1021.0,
+   724.46875,
+   1097.0
+  ],
+  [
+   "creating huge mudflows",
+   260.1796875,
+   1021.0,
+   819.8203125,
+   1097.0
+  ],
+  [
+   "called lahars.",
+   383.6484375,
+   1021.0,
+   696.3515625,
+   1097.0
+  ],
+  [
+   "About fifty-six hundred",
+   269.9765625,
+   1021.0,
+   810.0234375,
+   1097.0
+  ],
+  [
+   "years ago,",
+   419.0078125,
+   1021.0,
+   660.9921875,
+   1097.0
+  ],
+  [
+   "one of these",
+   393.3125,
+   1021.0,
+   686.6875,
+   1097.0
+  ],
+  [
+   "flows reached the",
+   332.0234375,
+   1021.0,
+   747.9765625,
+   1097.0
+  ],
+  [
+   "Puget Sound lowlands,",
+   275.109375,
+   1021.0,
+   804.890625,
+   1097.0
+  ],
+  [
+   "where towns like",
+   344.765625,
+   1021.0,
+   735.234375,
+   1097.0
+  ],
+  [
+   "Auburn stand today.",
+   306.75,
+   1021.0,
+   773.25,
+   1097.0
+  ],
+  [
+   "Many communities now",
+   268.0,
+   1021.0,
+   812.0,
+   1097.0
+  ],
+  [
+   "sit on old",
+   430.5546875,
+   1021.0,
+   649.4453125,
+   1097.0
+  ],
+  [
+   "lahar deposits,",
+   365.796875,
+   1021.0,
+   714.203125,
+   1097.0
+  ],
+  [
+   "so the valleys",
+   380.140625,
+   1021.0,
+   699.859375,
+   1097.0
+  ],
+  [
+   "have warning sirens",
+   309.84375,
+   1021.0,
+   770.15625,
+   1097.0
+  ],
+  [
+   "and marked",
+   402.4375,
+   1021.0,
+   677.5625,
+   1097.0
+  ],
+  [
+   "evacuation routes.",
+   320.8515625,
+   1021.0,
+   759.1484375,
+   1097.0
+  ],
+  [
+   "And Rainier last",
+   356.8046875,
+   1021.0,
+   723.1953125,
+   1097.0
+  ],
+  [
+   "erupted only about",
+   318.5,
+   1021.0,
+   761.5,
+   1097.0
+  ],
+  [
+   "a thousand",
+   407.3515625,
+   1021.0,
+   672.6484375,
+   1097.0
+  ],
+  [
+   "years ago.",
+   418.9140625,
+   1021.0,
+   661.0859375,
+   1097.0
+  ]
+ ]
+}
