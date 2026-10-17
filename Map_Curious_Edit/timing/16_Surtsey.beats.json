@@ -1,0 +1,838 @@
+{
+ "beats": [
+  [
+   0.0,
+   "Iceland highlighted, pulsing pin off the south coast"
+  ],
+  [
+   0.26,
+   "Hero: 1963"
+  ],
+  [
+   1.96,
+   "Camera pulls out; NORTH ATLANTIC label"
+  ],
+  [
+   3.0,
+   "Pin pops again with a bright ring"
+  ],
+  [
+   3.74,
+   "A BRAND-NEW ISLAND chip"
+  ],
+  [
+   5.94,
+   "Push in to the south coast; fishing boat sails in"
+  ],
+  [
+   7.08,
+   "SOUTH COAST + WESTMAN ISLANDS labels"
+  ],
+  [
+   7.7,
+   "Lookout \"!\" over the boat"
+  ],
+  [
+   8.64,
+   "Dark smoke rises from the sea at the pin"
+  ],
+  [
+   9.12,
+   "Plume grows tall"
+  ],
+  [
+   10.73,
+   "Map lifts: schematic cross-section, volcano on the seafloor"
+  ],
+  [
+   11.56,
+   "UNDERWATER VOLCANO label, magma conduit glows"
+  ],
+  [
+   12.56,
+   "Eruption: bubbles, cone starts growing (shake)"
+  ],
+  [
+   13.76,
+   "WITHIN A DAY chip; cone climbs toward the surface"
+  ],
+  [
+   15.68,
+   "Cone breaks the surface; ash + steam jets"
+  ],
+  [
+   16.26,
+   "NEW ISLAND / ASH + STEAM labels"
+  ],
+  [
+   18.26,
+   "SURTSEY hero + panel label"
+  ],
+  [
+   19.42,
+   "NAMED FOR A FIRE GIANT chip"
+  ],
+  [
+   21.94,
+   "Lava fountains, island spreads wider"
+  ],
+  [
+   23.22,
+   "Hero: 1967 \u00b7 ERUPTIONS END"
+  ],
+  [
+   25.01,
+   "Back to the map, push in on Surtsey"
+  ],
+  [
+   26.94,
+   "Hero: \u22481 SQ MI"
+  ],
+  [
+   29.48,
+   "Panel returns: finished island"
+  ],
+  [
+   30.26,
+   "KEPT ALMOST UNTOUCHED chip"
+  ],
+  [
+   32.34,
+   "HOW DOES LIFE ARRIVE? chip"
+  ],
+  [
+   33.7,
+   "BARE ROCK label"
+  ],
+  [
+   35.06,
+   "Seeds drift in on the wind"
+  ],
+  [
+   35.78,
+   "Insects buzz over the island"
+  ],
+  [
+   36.42,
+   "Birds fly in and land"
+  ],
+  [
+   37.6,
+   "Plants sprout across the island"
+  ],
+  [
+   38.7,
+   "ONLY RESEARCHERS chip; researcher on the island"
+  ],
+  [
+   40.3,
+   "Visitor boat crossed out"
+  ],
+  [
+   41.3,
+   "Waves grow"
+  ],
+  [
+   42.18,
+   "THE SEA IS WINNING chip"
+  ],
+  [
+   43.36,
+   "Waves batter the coast; island erodes"
+  ],
+  [
+   44.96,
+   "Hero: \u2248HALF GONE; 1967 outline vs today"
+  ]
+ ],
+ "sfx": [
+  [
+   0.0,
+   "pop",
+   2
+  ],
+  [
+   0.26,
+   "thud",
+   0.0
+  ],
+  [
+   1.96,
+   "whoosh",
+   0.0
+  ],
+  [
+   3.0,
+   "pop",
+   0.0
+  ],
+  [
+   3.74,
+   "tick",
+   0.0
+  ],
+  [
+   5.94,
+   "whoosh",
+   0.0
+  ],
+  [
+   7.08,
+   "tick",
+   0.0
+  ],
+  [
+   7.7,
+   "pop",
+   0.0
+  ],
+  [
+   8.64,
+   "swish",
+   0.0
+  ],
+  [
+   9.12,
+   "rumble",
+   0.0
+  ],
+  [
+   10.73,
+   "bubble",
+   0.0
+  ],
+  [
+   11.56,
+   "tick",
+   0.0
+  ],
+  [
+   12.56,
+   "rumble",
+   2
+  ],
+  [
+   13.76,
+   "tick",
+   0.0
+  ],
+  [
+   15.68,
+   "rumble",
+   3
+  ],
+  [
+   16.26,
+   "pop",
+   0.0
+  ],
+  [
+   18.26,
+   "thud",
+   0.0
+  ],
+  [
+   19.42,
+   "flame",
+   0.0
+  ],
+  [
+   21.94,
+   "rumble",
+   0.0
+  ],
+  [
+   23.22,
+   "thud",
+   0.0
+  ],
+  [
+   25.009999999999998,
+   "whoosh",
+   0.0
+  ],
+  [
+   26.94,
+   "thud",
+   0.0
+  ],
+  [
+   29.48,
+   "whoosh",
+   0.0
+  ],
+  [
+   30.26,
+   "pop",
+   0.0
+  ],
+  [
+   32.34,
+   "tick",
+   0.0
+  ],
+  [
+   33.7,
+   "tick",
+   0.0
+  ],
+  [
+   35.06,
+   "swish",
+   0.0
+  ],
+  [
+   35.78,
+   "tick",
+   0.0
+  ],
+  [
+   36.42,
+   "swish",
+   0.0
+  ],
+  [
+   37.6,
+   "pop",
+   0.0
+  ],
+  [
+   38.7,
+   "pop",
+   0.0
+  ],
+  [
+   40.3,
+   "thud",
+   -3
+  ],
+  [
+   41.3,
+   "swish",
+   0.0
+  ],
+  [
+   42.18,
+   "tick",
+   0.0
+  ],
+  [
+   43.36,
+   "rumble",
+   0.0
+  ],
+  [
+   44.96,
+   "thud",
+   0.0
+  ]
+ ],
+ "captions": [
+  {
+   "start": 0.08,
+   "end": 1.35,
+   "text": "In 1963,"
+  },
+  {
+   "start": 1.86,
+   "end": 2.66,
+   "text": "the North Atlantic"
+  },
+  {
+   "start": 2.66,
+   "end": 3.52,
+   "text": "gave birth to"
+  },
+  {
+   "start": 3.52,
+   "end": 5.27,
+   "text": "a brand-new island."
+  },
+  {
+   "start": 5.88,
+   "end": 7.02,
+   "text": "Fishermen off Iceland's"
+  },
+  {
+   "start": 7.02,
+   "end": 8.14,
+   "text": "south coast spotted"
+  },
+  {
+   "start": 8.14,
+   "end": 9.44,
+   "text": "dark smoke rising"
+  },
+  {
+   "start": 9.44,
+   "end": 10.82,
+   "text": "from the sea."
+  },
+  {
+   "start": 10.82,
+   "end": 12.2,
+   "text": "An underwater volcano"
+  },
+  {
+   "start": 12.2,
+   "end": 13.7,
+   "text": "was erupting."
+  },
+  {
+   "start": 13.7,
+   "end": 14.72,
+   "text": "Within a day,"
+  },
+  {
+   "start": 14.72,
+   "end": 15.62,
+   "text": "a new island"
+  },
+  {
+   "start": 15.62,
+   "end": 17.3,
+   "text": "broke the surface."
+  },
+  {
+   "start": 17.3,
+   "end": 17.84,
+   "text": "Iceland named"
+  },
+  {
+   "start": 17.84,
+   "end": 18.93,
+   "text": "it Surtsey,"
+  },
+  {
+   "start": 18.93,
+   "end": 19.66,
+   "text": "after a fire"
+  },
+  {
+   "start": 19.66,
+   "end": 20.3,
+   "text": "giant from"
+  },
+  {
+   "start": 20.3,
+   "end": 21.81,
+   "text": "Norse mythology."
+  },
+  {
+   "start": 21.81,
+   "end": 22.76,
+   "text": "The eruptions lasted"
+  },
+  {
+   "start": 22.76,
+   "end": 24.61,
+   "text": "until 1967."
+  },
+  {
+   "start": 25.05,
+   "end": 25.76,
+   "text": "By then,"
+  },
+  {
+   "start": 25.76,
+   "end": 26.54,
+   "text": "the island covered"
+  },
+  {
+   "start": 26.54,
+   "end": 27.28,
+   "text": "about one"
+  },
+  {
+   "start": 27.28,
+   "end": 28.64,
+   "text": "square mile."
+  },
+  {
+   "start": 28.64,
+   "end": 29.62,
+   "text": "Since then,"
+  },
+  {
+   "start": 29.62,
+   "end": 30.42,
+   "text": "scientists have kept"
+  },
+  {
+   "start": 30.42,
+   "end": 32.28,
+   "text": "it almost untouched,"
+  },
+  {
+   "start": 32.28,
+   "end": 33.02,
+   "text": "watching how life"
+  },
+  {
+   "start": 33.02,
+   "end": 33.64,
+   "text": "arrives on"
+  },
+  {
+   "start": 33.64,
+   "end": 35.0,
+   "text": "bare rock:"
+  },
+  {
+   "start": 35.0,
+   "end": 35.72,
+   "text": "seeds,"
+  },
+  {
+   "start": 35.72,
+   "end": 36.36,
+   "text": "insects and"
+  },
+  {
+   "start": 36.36,
+   "end": 37.43,
+   "text": "birds first,"
+  },
+  {
+   "start": 37.43,
+   "end": 38.64,
+   "text": "then plants."
+  },
+  {
+   "start": 38.64,
+   "end": 39.82,
+   "text": "Only researchers are"
+  },
+  {
+   "start": 39.82,
+   "end": 41.24,
+   "text": "allowed to land."
+  },
+  {
+   "start": 41.24,
+   "end": 41.82,
+   "text": "But the sea"
+  },
+  {
+   "start": 41.82,
+   "end": 42.85,
+   "text": "is winning."
+  },
+  {
+   "start": 43.3,
+   "end": 44.06,
+   "text": "Waves have already"
+  },
+  {
+   "start": 44.06,
+   "end": 44.9,
+   "text": "worn away about"
+  },
+  {
+   "start": 44.9,
+   "end": 45.56,
+   "text": "half of"
+  },
+  {
+   "start": 45.56,
+   "end": 46.708,
+   "text": "Surtsey's area."
+  }
+ ],
+ "caption_bounds": [
+  [
+   "In 1963,",
+   448.0546875,
+   1021.0,
+   631.9453125,
+   1097.0
+  ],
+  [
+   "the North Atlantic",
+   329.7578125,
+   1021.0,
+   750.2421875,
+   1097.0
+  ],
+  [
+   "gave birth to",
+   391.5,
+   1021.0,
+   688.5,
+   1097.0
+  ],
+  [
+   "a brand-new island.",
+   313.59375,
+   1021.0,
+   766.40625,
+   1097.0
+  ],
+  [
+   "Fishermen off Iceland's",
+   274.8515625,
+   1021.0,
+   805.1484375,
+   1097.0
+  ],
+  [
+   "south coast spotted",
+   305.8984375,
+   1021.0,
+   774.1015625,
+   1097.0
+  ],
+  [
+   "dark smoke rising",
+   335.90625,
+   1021.0,
+   744.09375,
+   1097.0
+  ],
+  [
+   "from the sea.",
+   385.2578125,
+   1021.0,
+   694.7421875,
+   1097.0
+  ],
+  [
+   "An underwater volcano",
+   273.9453125,
+   1021.0,
+   806.0546875,
+   1097.0
+  ],
+  [
+   "was erupting.",
+   379.59375,
+   1021.0,
+   700.40625,
+   1097.0
+  ],
+  [
+   "Within a day,",
+   390.40625,
+   1021.0,
+   689.59375,
+   1097.0
+  ],
+  [
+   "a new island",
+   396.3828125,
+   1021.0,
+   683.6171875,
+   1097.0
+  ],
+  [
+   "broke the surface.",
+   328.9375,
+   1021.0,
+   751.0625,
+   1097.0
+  ],
+  [
+   "Iceland named",
+   369.328125,
+   1021.0,
+   710.671875,
+   1097.0
+  ],
+  [
+   "it Surtsey,",
+   417.7734375,
+   1021.0,
+   662.2265625,
+   1097.0
+  ],
+  [
+   "after a fire",
+   416.859375,
+   1021.0,
+   663.140625,
+   1097.0
+  ],
+  [
+   "giant from",
+   416.3828125,
+   1021.0,
+   663.6171875,
+   1097.0
+  ],
+  [
+   "Norse mythology.",
+   334.53125,
+   1021.0,
+   745.46875,
+   1097.0
+  ],
+  [
+   "The eruptions lasted",
+   300.40625,
+   1021.0,
+   779.59375,
+   1097.0
+  ],
+  [
+   "until 1967.",
+   417.3984375,
+   1021.0,
+   662.6015625,
+   1097.0
+  ],
+  [
+   "By then,",
+   441.2734375,
+   1021.0,
+   638.7265625,
+   1097.0
+  ],
+  [
+   "the island covered",
+   326.390625,
+   1021.0,
+   753.609375,
+   1097.0
+  ],
+  [
+   "about one",
+   419.578125,
+   1021.0,
+   660.421875,
+   1097.0
+  ],
+  [
+   "square mile.",
+   395.6171875,
+   1021.0,
+   684.3828125,
+   1097.0
+  ],
+  [
+   "Since then,",
+   405.3515625,
+   1021.0,
+   674.6484375,
+   1097.0
+  ],
+  [
+   "scientists have kept",
+   306.875,
+   1021.0,
+   773.125,
+   1097.0
+  ],
+  [
+   "it almost untouched,",
+   298.3828125,
+   1021.0,
+   781.6171875,
+   1097.0
+  ],
+  [
+   "watching how life",
+   336.7109375,
+   1021.0,
+   743.2890625,
+   1097.0
+  ],
+  [
+   "arrives on",
+   422.0234375,
+   1021.0,
+   657.9765625,
+   1097.0
+  ],
+  [
+   "bare rock:",
+   420.421875,
+   1021.0,
+   659.578125,
+   1097.0
+  ],
+  [
+   "seeds,",
+   459.234375,
+   1021.0,
+   620.765625,
+   1097.0
+  ],
+  [
+   "insects and",
+   403.03125,
+   1021.0,
+   676.96875,
+   1097.0
+  ],
+  [
+   "birds first,",
+   416.9375,
+   1021.0,
+   663.0625,
+   1097.0
+  ],
+  [
+   "then plants.",
+   396.9609375,
+   1021.0,
+   683.0390625,
+   1097.0
+  ],
+  [
+   "Only researchers are",
+   300.34375,
+   1021.0,
+   779.65625,
+   1097.0
+  ],
+  [
+   "allowed to land.",
+   356.9140625,
+   1021.0,
+   723.0859375,
+   1097.0
+  ],
+  [
+   "But the sea",
+   406.75,
+   1021.0,
+   673.25,
+   1097.0
+  ],
+  [
+   "is winning.",
+   412.1015625,
+   1021.0,
+   667.8984375,
+   1097.0
+  ],
+  [
+   "Waves have already",
+   312.703125,
+   1021.0,
+   767.296875,
+   1097.0
+  ],
+  [
+   "worn away about",
+   344.1953125,
+   1021.0,
+   735.8046875,
+   1097.0
+  ],
+  [
+   "half of",
+   462.390625,
+   1021.0,
+   617.609375,
+   1097.0
+  ],
+  [
+   "Surtsey's area.",
+   365.9453125,
+   1021.0,
+   714.0546875,
+   1097.0
+  ]
+ ]
+}

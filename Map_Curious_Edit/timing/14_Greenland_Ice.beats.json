@@ -1,0 +1,784 @@
+{
+ "beats": [
+  [
+   0.0,
+   "Greenland outlined on the NASA map, pin on the ice sheet"
+  ],
+  [
+   0.76,
+   "Ice sheet glows white across Greenland"
+  ],
+  [
+   1.3,
+   "ICE SHEET chip"
+  ],
+  [
+   2.32,
+   "Hero: \u22482 MILES THICK; camera pushes in"
+  ],
+  [
+   3.24,
+   "Thickness ruler beside the pin"
+  ],
+  [
+   4.78,
+   "Ice overlay sweeps down the island"
+  ],
+  [
+   5.44,
+   "Hero: \u224880% OF THE ISLAND"
+  ],
+  [
+   6.5,
+   "Camera pulls out to the whole east coast"
+  ],
+  [
+   7.36,
+   "MORE THAN chip"
+  ],
+  [
+   8.18,
+   "Two Texas silhouettes pop in"
+  ],
+  [
+   9.26,
+   "2\u00d7 TEXAS label"
+  ],
+  [
+   10.42,
+   "Map lifts: schematic ice-sheet cross-section"
+  ],
+  [
+   12.38,
+   "Weight arrows press down on the dome"
+  ],
+  [
+   13.3,
+   "Bedrock sags under the ice"
+  ],
+  [
+   14.74,
+   "Sea-level line crosses the bedrock: BELOW SEA LEVEL"
+  ],
+  [
+   15.46,
+   "Sunken bedrock highlighted"
+  ],
+  [
+   16.45,
+   "IF IT ALL MELTED chip"
+  ],
+  [
+   17.12,
+   "Ice dome melts, meltwater runs to the ocean"
+  ],
+  [
+   17.96,
+   "Ocean level rises on both sides"
+  ],
+  [
+   19.6,
+   "Hero: \u224824 FT GLOBAL SEA-LEVEL RISE"
+  ],
+  [
+   21.14,
+   "Back to the map"
+  ],
+  [
+   22.48,
+   "Ice edge glows red: IT IS MELTING"
+  ],
+  [
+   23.76,
+   "IN RECENT DECADES chip; push to the SE coast"
+  ],
+  [
+   25.64,
+   "Coastal ice flashes red"
+  ],
+  [
+   25.92,
+   "Hero: HUNDREDS OF BILLIONS"
+  ],
+  [
+   27.6,
+   "OF TONS OF ICE label"
+  ],
+  [
+   28.68,
+   "EVERY YEAR chip"
+  ],
+  [
+   29.48,
+   "Meltwater arrows pour off the coast"
+  ],
+  [
+   30.7,
+   "ATLANTIC OCEAN label"
+  ],
+  [
+   31.84,
+   "Zoom out to the full map"
+  ],
+  [
+   33.5,
+   "WORLD'S LARGEST ISLAND chip"
+  ],
+  [
+   35.34,
+   "Ice sheet shimmers"
+  ],
+  [
+   35.8,
+   "A FROZEN RESERVOIR chip"
+  ],
+  [
+   36.83,
+   "Ocean tint pulses: HOLDING BACK THE OCEAN"
+  ]
+ ],
+ "sfx": [
+  [
+   0.0,
+   "pop",
+   2
+  ],
+  [
+   0.76,
+   "shimmer",
+   0.0
+  ],
+  [
+   1.3,
+   "tick",
+   0.0
+  ],
+  [
+   2.32,
+   "thud",
+   0.0
+  ],
+  [
+   3.24,
+   "swish",
+   0.0
+  ],
+  [
+   4.78,
+   "whoosh",
+   0.0
+  ],
+  [
+   5.44,
+   "thud",
+   0.0
+  ],
+  [
+   6.5,
+   "whoosh",
+   0.0
+  ],
+  [
+   7.36,
+   "tick",
+   0.0
+  ],
+  [
+   8.18,
+   "pop",
+   0.0
+  ],
+  [
+   9.26,
+   "tick",
+   0.0
+  ],
+  [
+   10.42,
+   "whoosh",
+   0.0
+  ],
+  [
+   12.38,
+   "rumble",
+   0.0
+  ],
+  [
+   13.3,
+   "rumble",
+   2
+  ],
+  [
+   14.74,
+   "thud",
+   0.0
+  ],
+  [
+   15.46,
+   "tick",
+   0.0
+  ],
+  [
+   16.45,
+   "tick",
+   0.0
+  ],
+  [
+   17.12,
+   "swish",
+   0.0
+  ],
+  [
+   17.96,
+   "bubble",
+   0.0
+  ],
+  [
+   19.6,
+   "thud",
+   0.0
+  ],
+  [
+   21.14,
+   "whoosh",
+   0.0
+  ],
+  [
+   22.48,
+   "rumble",
+   0.0
+  ],
+  [
+   23.76,
+   "tick",
+   0.0
+  ],
+  [
+   25.64,
+   "swish",
+   0.0
+  ],
+  [
+   25.92,
+   "thud",
+   0.0
+  ],
+  [
+   27.6,
+   "tick",
+   0.0
+  ],
+  [
+   28.68,
+   "pop",
+   0.0
+  ],
+  [
+   29.48,
+   "swish",
+   0.0
+  ],
+  [
+   30.7,
+   "pop",
+   0.0
+  ],
+  [
+   31.84,
+   "whoosh",
+   0.0
+  ],
+  [
+   33.5,
+   "pop",
+   0.0
+  ],
+  [
+   35.34,
+   "shimmer",
+   0.0
+  ],
+  [
+   35.8,
+   "pop",
+   0.0
+  ],
+  [
+   36.83,
+   "swish",
+   0.0
+  ]
+ ],
+ "captions": [
+  {
+   "start": 0.05,
+   "end": 1.0,
+   "text": "Greenland is hiding"
+  },
+  {
+   "start": 1.0,
+   "end": 1.56,
+   "text": "a sheet of"
+  },
+  {
+   "start": 1.56,
+   "end": 2.76,
+   "text": "ice nearly two"
+  },
+  {
+   "start": 2.76,
+   "end": 4.23,
+   "text": "miles thick."
+  },
+  {
+   "start": 4.64,
+   "end": 5.38,
+   "text": "It covers about"
+  },
+  {
+   "start": 5.38,
+   "end": 6.32,
+   "text": "eighty percent of"
+  },
+  {
+   "start": 6.32,
+   "end": 7.2,
+   "text": "the island,"
+  },
+  {
+   "start": 7.2,
+   "end": 7.86,
+   "text": "an area more"
+  },
+  {
+   "start": 7.86,
+   "end": 8.78,
+   "text": "than twice the"
+  },
+  {
+   "start": 8.78,
+   "end": 9.93,
+   "text": "size of Texas."
+  },
+  {
+   "start": 10.4,
+   "end": 11.4,
+   "text": "In the middle,"
+  },
+  {
+   "start": 11.4,
+   "end": 11.92,
+   "text": "the ice is"
+  },
+  {
+   "start": 11.92,
+   "end": 12.96,
+   "text": "so heavy that"
+  },
+  {
+   "start": 12.96,
+   "end": 13.54,
+   "text": "it has pushed"
+  },
+  {
+   "start": 13.54,
+   "end": 14.36,
+   "text": "the land beneath"
+  },
+  {
+   "start": 14.36,
+   "end": 15.04,
+   "text": "it below"
+  },
+  {
+   "start": 15.04,
+   "end": 16.39,
+   "text": "sea level."
+  },
+  {
+   "start": 16.39,
+   "end": 16.96,
+   "text": "If all of"
+  },
+  {
+   "start": 16.96,
+   "end": 17.9,
+   "text": "it melted,"
+  },
+  {
+   "start": 17.9,
+   "end": 18.7,
+   "text": "global sea levels"
+  },
+  {
+   "start": 18.7,
+   "end": 19.54,
+   "text": "would rise about"
+  },
+  {
+   "start": 19.54,
+   "end": 21.33,
+   "text": "twenty-four feet."
+  },
+  {
+   "start": 21.33,
+   "end": 22.04,
+   "text": "And it"
+  },
+  {
+   "start": 22.04,
+   "end": 23.6,
+   "text": "is melting."
+  },
+  {
+   "start": 23.6,
+   "end": 24.9,
+   "text": "In recent decades,"
+  },
+  {
+   "start": 24.9,
+   "end": 25.58,
+   "text": "Greenland has been"
+  },
+  {
+   "start": 25.58,
+   "end": 26.76,
+   "text": "losing hundreds of"
+  },
+  {
+   "start": 26.76,
+   "end": 27.7,
+   "text": "billions of tons"
+  },
+  {
+   "start": 27.7,
+   "end": 28.12,
+   "text": "of ice"
+  },
+  {
+   "start": 28.12,
+   "end": 29.42,
+   "text": "every year,"
+  },
+  {
+   "start": 29.42,
+   "end": 30.46,
+   "text": "pouring water into"
+  },
+  {
+   "start": 30.46,
+   "end": 31.43,
+   "text": "the Atlantic."
+  },
+  {
+   "start": 31.78,
+   "end": 32.66,
+   "text": "Zoom out,"
+  },
+  {
+   "start": 32.66,
+   "end": 33.44,
+   "text": "and the world's"
+  },
+  {
+   "start": 33.44,
+   "end": 34.66,
+   "text": "largest island is"
+  },
+  {
+   "start": 34.66,
+   "end": 35.28,
+   "text": "really a"
+  },
+  {
+   "start": 35.28,
+   "end": 36.77,
+   "text": "frozen reservoir,"
+  },
+  {
+   "start": 36.77,
+   "end": 37.6,
+   "text": "holding back a"
+  },
+  {
+   "start": 37.6,
+   "end": 39.042,
+   "text": "lot of ocean."
+  }
+ ],
+ "caption_bounds": [
+  [
+   "Greenland is hiding",
+   316.296875,
+   1021.0,
+   763.703125,
+   1097.0
+  ],
+  [
+   "a sheet of",
+   422.7109375,
+   1021.0,
+   657.2890625,
+   1097.0
+  ],
+  [
+   "ice nearly two",
+   377.1015625,
+   1021.0,
+   702.8984375,
+   1097.0
+  ],
+  [
+   "miles thick.",
+   403.0546875,
+   1021.0,
+   676.9453125,
+   1097.0
+  ],
+  [
+   "It covers about",
+   365.5625,
+   1021.0,
+   714.4375,
+   1097.0
+  ],
+  [
+   "eighty percent of",
+   339.6328125,
+   1021.0,
+   740.3671875,
+   1097.0
+  ],
+  [
+   "the island,",
+   414.9453125,
+   1021.0,
+   665.0546875,
+   1097.0
+  ],
+  [
+   "an area more",
+   388.4453125,
+   1021.0,
+   691.5546875,
+   1097.0
+  ],
+  [
+   "than twice the",
+   370.328125,
+   1021.0,
+   709.671875,
+   1097.0
+  ],
+  [
+   "size of Texas.",
+   385.2109375,
+   1021.0,
+   694.7890625,
+   1097.0
+  ],
+  [
+   "In the middle,",
+   380.328125,
+   1021.0,
+   699.671875,
+   1097.0
+  ],
+  [
+   "the ice is",
+   432.7421875,
+   1021.0,
+   647.2578125,
+   1097.0
+  ],
+  [
+   "so heavy that",
+   381.9609375,
+   1021.0,
+   698.0390625,
+   1097.0
+  ],
+  [
+   "it has pushed",
+   382.6328125,
+   1021.0,
+   697.3671875,
+   1097.0
+  ],
+  [
+   "the land beneath",
+   342.6015625,
+   1021.0,
+   737.3984375,
+   1097.0
+  ],
+  [
+   "it below",
+   444.5625,
+   1021.0,
+   635.4375,
+   1097.0
+  ],
+  [
+   "sea level.",
+   428.578125,
+   1021.0,
+   651.421875,
+   1097.0
+  ],
+  [
+   "If all of",
+   458.8046875,
+   1021.0,
+   621.1953125,
+   1097.0
+  ],
+  [
+   "it melted,",
+   425.6015625,
+   1021.0,
+   654.3984375,
+   1097.0
+  ],
+  [
+   "global sea levels",
+   348.6171875,
+   1021.0,
+   731.3828125,
+   1097.0
+  ],
+  [
+   "would rise about",
+   346.453125,
+   1021.0,
+   733.546875,
+   1097.0
+  ],
+  [
+   "twenty-four feet.",
+   339.140625,
+   1021.0,
+   740.859375,
+   1097.0
+  ],
+  [
+   "And it",
+   467.8984375,
+   1021.0,
+   612.1015625,
+   1097.0
+  ],
+  [
+   "is melting.",
+   415.03125,
+   1021.0,
+   664.96875,
+   1097.0
+  ],
+  [
+   "In recent decades,",
+   325.4453125,
+   1021.0,
+   754.5546875,
+   1097.0
+  ],
+  [
+   "Greenland has been",
+   310.0546875,
+   1021.0,
+   769.9453125,
+   1097.0
+  ],
+  [
+   "losing hundreds of",
+   324.046875,
+   1021.0,
+   755.953125,
+   1097.0
+  ],
+  [
+   "billions of tons",
+   367.15625,
+   1021.0,
+   712.84375,
+   1097.0
+  ],
+  [
+   "of ice",
+   472.25,
+   1021.0,
+   607.75,
+   1097.0
+  ],
+  [
+   "every year,",
+   412.453125,
+   1021.0,
+   667.546875,
+   1097.0
+  ],
+  [
+   "pouring water into",
+   326.34375,
+   1021.0,
+   753.65625,
+   1097.0
+  ],
+  [
+   "the Atlantic.",
+   392.9609375,
+   1021.0,
+   687.0390625,
+   1097.0
+  ],
+  [
+   "Zoom out,",
+   417.3203125,
+   1021.0,
+   662.6796875,
+   1097.0
+  ],
+  [
+   "and the world's",
+   363.375,
+   1021.0,
+   716.625,
+   1097.0
+  ],
+  [
+   "largest island is",
+   356.6953125,
+   1021.0,
+   723.3046875,
+   1097.0
+  ],
+  [
+   "really a",
+   452.859375,
+   1021.0,
+   627.140625,
+   1097.0
+  ],
+  [
+   "frozen reservoir,",
+   349.6640625,
+   1021.0,
+   730.3359375,
+   1097.0
+  ],
+  [
+   "holding back a",
+   371.5234375,
+   1021.0,
+   708.4765625,
+   1097.0
+  ],
+  [
+   "lot of ocean.",
+   393.4296875,
+   1021.0,
+   686.5703125,
+   1097.0
+  ]
+ ]
+}

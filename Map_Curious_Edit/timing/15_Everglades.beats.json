@@ -1,0 +1,785 @@
+{
+ "beats": [
+  [
+   0.0,
+   "South Florida from above, EVERGLADES pin + label"
+  ],
+  [
+   1.96,
+   "SWAMP? stamp"
+  ],
+  [
+   3.22,
+   "IT'S A RIVER - flow line traces south"
+  ],
+  [
+   4.54,
+   "Lake Okeechobee lights up"
+  ],
+  [
+   5.06,
+   "Big arrow pushes south from the lake"
+  ],
+  [
+   5.88,
+   "LAKE OKEECHOBEE label"
+  ],
+  [
+   6.9,
+   "Water sheet spreads south across the peninsula"
+  ],
+  [
+   8.04,
+   "Flow particles drift in the sheet"
+  ],
+  [
+   9.16,
+   "Width bracket + ~60 MILES WIDE"
+  ],
+  [
+   11.26,
+   "Camera creeps toward Florida Bay"
+  ],
+  [
+   12.34,
+   "FLORIDA BAY pin"
+  ],
+  [
+   13.06,
+   "SLOW, SHALLOW SHEET chip"
+  ],
+  [
+   14.18,
+   "BARELY MOVING magnifier ring on the flow"
+  ],
+  [
+   15.96,
+   "Sawgrass blades sprout across the band"
+  ],
+  [
+   16.82,
+   "SAWGRASS chip"
+  ],
+  [
+   18.86,
+   "MARJORY STONEMAN DOUGLAS chip"
+  ],
+  [
+   21.0,
+   "RIVER OF GRASS hero"
+  ],
+  [
+   21.3,
+   "Band outline glows lime"
+  ],
+  [
+   22.28,
+   "1947"
+  ],
+  [
+   24.34,
+   "Everglades National Park outline draws"
+  ],
+  [
+   25.12,
+   "EVERGLADES NATIONAL PARK chip"
+  ],
+  [
+   27.12,
+   "Gray canals cut across the flow"
+  ],
+  [
+   28.04,
+   "Agricultural area fills south of the lake"
+  ],
+  [
+   28.66,
+   "Coastal cities spread + city pins"
+  ],
+  [
+   29.38,
+   "Flow drains away, band dries brown"
+  ],
+  [
+   31.06,
+   "Original extent dashed outline"
+  ],
+  [
+   32.68,
+   "~HALF ITS ORIGINAL SIZE hero"
+  ],
+  [
+   35.0,
+   "Camera resets on the whole system"
+  ],
+  [
+   36.38,
+   "RESTORATION chip + ring on the farm area south of the lake"
+  ],
+  [
+   37.88,
+   "ONE OF THE WORLD'S LARGEST sub-line"
+  ],
+  [
+   39.16,
+   "Water flows south again through the band"
+  ],
+  [
+   39.86,
+   "Arrows reach Florida Bay"
+  ]
+ ],
+ "sfx": [
+  [
+   0.0,
+   "whoosh",
+   2
+  ],
+  [
+   1.96,
+   "thud",
+   0.0
+  ],
+  [
+   3.22,
+   "swish",
+   0.0
+  ],
+  [
+   4.54,
+   "pop",
+   0.0
+  ],
+  [
+   5.06,
+   "swish",
+   0.0
+  ],
+  [
+   5.88,
+   "tick",
+   0.0
+  ],
+  [
+   6.9,
+   "whoosh",
+   0.0
+  ],
+  [
+   8.04,
+   "tick",
+   0.0
+  ],
+  [
+   9.16,
+   "thud",
+   0.0
+  ],
+  [
+   11.26,
+   "swish",
+   0.0
+  ],
+  [
+   12.34,
+   "pop",
+   0.0
+  ],
+  [
+   13.06,
+   "tick",
+   0.0
+  ],
+  [
+   14.18,
+   "tick",
+   0.0
+  ],
+  [
+   15.96,
+   "swish",
+   0.0
+  ],
+  [
+   16.82,
+   "pop",
+   0.0
+  ],
+  [
+   18.86,
+   "pop",
+   0.0
+  ],
+  [
+   21.0,
+   "thud",
+   0.0
+  ],
+  [
+   22.28,
+   "thud",
+   0.0
+  ],
+  [
+   24.34,
+   "swish",
+   0.0
+  ],
+  [
+   25.12,
+   "pop",
+   0.0
+  ],
+  [
+   27.12,
+   "swish",
+   0.0
+  ],
+  [
+   28.04,
+   "tick",
+   0.0
+  ],
+  [
+   28.66,
+   "pop",
+   0.0
+  ],
+  [
+   29.38,
+   "rumble",
+   0.0
+  ],
+  [
+   31.06,
+   "tick",
+   0.0
+  ],
+  [
+   32.68,
+   "thud",
+   0.0
+  ],
+  [
+   35.0,
+   "whoosh",
+   0.0
+  ],
+  [
+   36.38,
+   "pop",
+   0.0
+  ],
+  [
+   37.88,
+   "tick",
+   0.0
+  ],
+  [
+   39.16,
+   "swish",
+   0.0
+  ],
+  [
+   39.86,
+   "pop",
+   0.0
+  ]
+ ],
+ "captions": [
+  {
+   "start": 0.0,
+   "end": 1.26,
+   "text": "The Everglades isn't"
+  },
+  {
+   "start": 1.26,
+   "end": 2.88,
+   "text": "really a swamp."
+  },
+  {
+   "start": 2.88,
+   "end": 3.89,
+   "text": "It's a river."
+  },
+  {
+   "start": 4.48,
+   "end": 5.32,
+   "text": "Water spills south"
+  },
+  {
+   "start": 5.32,
+   "end": 6.56,
+   "text": "from Lake Okeechobee"
+  },
+  {
+   "start": 6.56,
+   "end": 7.48,
+   "text": "and spreads into"
+  },
+  {
+   "start": 7.48,
+   "end": 8.46,
+   "text": "a shallow sheet"
+  },
+  {
+   "start": 8.46,
+   "end": 9.1,
+   "text": "up to about"
+  },
+  {
+   "start": 9.1,
+   "end": 11.09,
+   "text": "sixty miles wide."
+  },
+  {
+   "start": 11.09,
+   "end": 11.86,
+   "text": "It creeps toward"
+  },
+  {
+   "start": 11.86,
+   "end": 13.0,
+   "text": "Florida Bay so"
+  },
+  {
+   "start": 13.0,
+   "end": 14.12,
+   "text": "slowly you can"
+  },
+  {
+   "start": 14.12,
+   "end": 14.88,
+   "text": "barely see"
+  },
+  {
+   "start": 14.88,
+   "end": 15.9,
+   "text": "it move,"
+  },
+  {
+   "start": 15.9,
+   "end": 16.36,
+   "text": "flowing through"
+  },
+  {
+   "start": 16.36,
+   "end": 18.09,
+   "text": "tall sawgrass."
+  },
+  {
+   "start": 18.09,
+   "end": 18.8,
+   "text": "That's why writer"
+  },
+  {
+   "start": 18.8,
+   "end": 19.7,
+   "text": "Marjory Stoneman"
+  },
+  {
+   "start": 19.7,
+   "end": 20.1,
+   "text": "Douglas"
+  },
+  {
+   "start": 20.1,
+   "end": 20.94,
+   "text": "called it the"
+  },
+  {
+   "start": 20.94,
+   "end": 21.9,
+   "text": "River of Grass"
+  },
+  {
+   "start": 21.9,
+   "end": 23.7,
+   "text": "in 1947,"
+  },
+  {
+   "start": 23.7,
+   "end": 24.28,
+   "text": "the same year"
+  },
+  {
+   "start": 24.28,
+   "end": 25.54,
+   "text": "Everglades National Park"
+  },
+  {
+   "start": 25.54,
+   "end": 26.59,
+   "text": "was dedicated."
+  },
+  {
+   "start": 26.94,
+   "end": 27.98,
+   "text": "But canals,"
+  },
+  {
+   "start": 27.98,
+   "end": 29.0,
+   "text": "farms and cities"
+  },
+  {
+   "start": 29.0,
+   "end": 30.02,
+   "text": "have drained much"
+  },
+  {
+   "start": 30.02,
+   "end": 31.0,
+   "text": "of it."
+  },
+  {
+   "start": 31.0,
+   "end": 31.56,
+   "text": "Today"
+  },
+  {
+   "start": 31.56,
+   "end": 32.34,
+   "text": "the Everglades is"
+  },
+  {
+   "start": 32.34,
+   "end": 33.34,
+   "text": "about half its"
+  },
+  {
+   "start": 33.34,
+   "end": 34.53,
+   "text": "original size."
+  },
+  {
+   "start": 34.94,
+   "end": 35.48,
+   "text": "Now,"
+  },
+  {
+   "start": 35.48,
+   "end": 35.88,
+   "text": "one of the"
+  },
+  {
+   "start": 35.88,
+   "end": 36.88,
+   "text": "largest restoration"
+  },
+  {
+   "start": 36.88,
+   "end": 37.48,
+   "text": "projects"
+  },
+  {
+   "start": 37.48,
+   "end": 38.2,
+   "text": "in the world"
+  },
+  {
+   "start": 38.2,
+   "end": 39.1,
+   "text": "is trying to"
+  },
+  {
+   "start": 39.1,
+   "end": 39.8,
+   "text": "send that water"
+  },
+  {
+   "start": 39.8,
+   "end": 40.917,
+   "text": "south again."
+  }
+ ],
+ "caption_bounds": [
+  [
+   "The Everglades isn't",
+   307.171875,
+   1021.0,
+   772.828125,
+   1097.0
+  ],
+  [
+   "really a swamp.",
+   362.3828125,
+   1021.0,
+   717.6171875,
+   1097.0
+  ],
+  [
+   "It's a river.",
+   419.4296875,
+   1021.0,
+   660.5703125,
+   1097.0
+  ],
+  [
+   "Water spills south",
+   330.3046875,
+   1021.0,
+   749.6953125,
+   1097.0
+  ],
+  [
+   "from Lake Okeechobee",
+   276.2265625,
+   1021.0,
+   803.7734375,
+   1097.0
+  ],
+  [
+   "and spreads into",
+   346.9453125,
+   1021.0,
+   733.0546875,
+   1097.0
+  ],
+  [
+   "a shallow sheet",
+   359.109375,
+   1021.0,
+   720.890625,
+   1097.0
+  ],
+  [
+   "up to about",
+   404.859375,
+   1021.0,
+   675.140625,
+   1097.0
+  ],
+  [
+   "sixty miles wide.",
+   347.46875,
+   1021.0,
+   732.53125,
+   1097.0
+  ],
+  [
+   "It creeps toward",
+   352.3671875,
+   1021.0,
+   727.6328125,
+   1097.0
+  ],
+  [
+   "Florida Bay so",
+   379.84375,
+   1021.0,
+   700.15625,
+   1097.0
+  ],
+  [
+   "slowly you can",
+   369.9140625,
+   1021.0,
+   710.0859375,
+   1097.0
+  ],
+  [
+   "barely see",
+   417.9453125,
+   1021.0,
+   662.0546875,
+   1097.0
+  ],
+  [
+   "it move,",
+   444.1875,
+   1021.0,
+   635.8125,
+   1097.0
+  ],
+  [
+   "flowing through",
+   352.4765625,
+   1021.0,
+   727.5234375,
+   1097.0
+  ],
+  [
+   "tall sawgrass.",
+   378.875,
+   1021.0,
+   701.125,
+   1097.0
+  ],
+  [
+   "That's why writer",
+   341.0,
+   1021.0,
+   739.0,
+   1097.0
+  ],
+  [
+   "Marjory Stoneman",
+   326.75,
+   1021.0,
+   753.25,
+   1097.0
+  ],
+  [
+   "Douglas",
+   441.484375,
+   1021.0,
+   638.515625,
+   1097.0
+  ],
+  [
+   "called it the",
+   400.40625,
+   1021.0,
+   679.59375,
+   1097.0
+  ],
+  [
+   "River of Grass",
+   378.375,
+   1021.0,
+   701.625,
+   1097.0
+  ],
+  [
+   "in 1947,",
+   449.2890625,
+   1021.0,
+   630.7109375,
+   1097.0
+  ],
+  [
+   "the same year",
+   375.875,
+   1021.0,
+   704.125,
+   1097.0
+  ],
+  [
+   "Everglades National Park",
+   253.375,
+   1021.0,
+   826.625,
+   1097.0
+  ],
+  [
+   "was dedicated.",
+   364.015625,
+   1021.0,
+   715.984375,
+   1097.0
+  ],
+  [
+   "But canals,",
+   408.6484375,
+   1021.0,
+   671.3515625,
+   1097.0
+  ],
+  [
+   "farms and cities",
+   354.109375,
+   1021.0,
+   725.890625,
+   1097.0
+  ],
+  [
+   "have drained much",
+   320.328125,
+   1021.0,
+   759.671875,
+   1097.0
+  ],
+  [
+   "of it.",
+   481.7265625,
+   1021.0,
+   598.2734375,
+   1097.0
+  ],
+  [
+   "Today",
+   467.1875,
+   1021.0,
+   612.8125,
+   1097.0
+  ],
+  [
+   "the Everglades is",
+   341.921875,
+   1021.0,
+   738.078125,
+   1097.0
+  ],
+  [
+   "about half its",
+   384.4765625,
+   1021.0,
+   695.5234375,
+   1097.0
+  ],
+  [
+   "original size.",
+   391.0546875,
+   1021.0,
+   688.9453125,
+   1097.0
+  ],
+  [
+   "Now,",
+   479.1328125,
+   1021.0,
+   600.8671875,
+   1097.0
+  ],
+  [
+   "one of the",
+   419.875,
+   1021.0,
+   660.125,
+   1097.0
+  ],
+  [
+   "largest restoration",
+   320.578125,
+   1021.0,
+   759.421875,
+   1097.0
+  ],
+  [
+   "projects",
+   438.875,
+   1021.0,
+   641.125,
+   1097.0
+  ],
+  [
+   "in the world",
+   401.2109375,
+   1021.0,
+   678.7890625,
+   1097.0
+  ],
+  [
+   "is trying to",
+   413.3515625,
+   1021.0,
+   666.6484375,
+   1097.0
+  ],
+  [
+   "send that water",
+   356.9296875,
+   1021.0,
+   723.0703125,
+   1097.0
+  ],
+  [
+   "south again.",
+   392.984375,
+   1021.0,
+   687.015625,
+   1097.0
+  ]
+ ]
+}
