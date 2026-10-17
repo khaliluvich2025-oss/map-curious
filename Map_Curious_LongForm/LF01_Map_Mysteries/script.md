@@ -42,12 +42,13 @@ checked before recording.
 
 ---
 
-## ⚑ Fact checks before recording
-| Claim | Check against |
-|---|---|
-| Fort Jefferson "one of the largest brick forts in the Americas", ">16 million bricks", built ~1846–1875 | NPS Dry Tortugas |
-| Centralia ≈1,000 residents before buyout; ZIP code revoked (2002); fire could burn ~200+ years | PA DEP / U.S. Census / USGS |
-| D.B. Cooper "only unsolved hijacking in U.S. aviation history"; $5,800 found 1980; FBI 2016 | FBI.gov |
-| Denmark Strait drop ≈ 2 mi (~3,500 m), "largest waterfall on Earth", volume vs. rivers | NOAA Ocean Service |
-| Surtsey UNESCO listing (2008); ≈ half the area eroded | UNESCO WHC |
-If a check fails, I rewrite that sentence before you record.
+## Fact check (2026-10-17) — all claims in the recorded text confirmed; no wording changes needed
+| Claim | Result | Source |
+|---|---|---|
+| Denmark Strait cataract: largest waterfall, ≈11,500 ft (>2 mi) drop, flow >123 million ft³/s, invisible from surface | Confirmed ("roughly two miles" OK) | https://oceanservice.noaa.gov/facts/largest-waterfall.html |
+| Fort Jefferson: begun 1846, ~30 years, never finished; rifled cannon made it obsolete; settling/cracking; Dr. Mudd | Confirmed | NPS history (Gutenberg "Fort Jefferson National Monument"), https://gutenberg.org/ebooks/49968 |
+| Centralia: 1981 sinkhole (Todd Domboski survived); ~$42M federal buyout 1983–84; ZIP code discontinued 2002 | Confirmed | https://www.environmentandsociety.org/node/6551 + press |
+| D.B. Cooper: Flight 305 Portland→Seattle, $200,000, 1980 money find on the Columbia, FBI ended active case 2016, "only unsolved air piracy in American aviation history" | Confirmed (secondary sources quote the FBI wording) | https://en.wikipedia.org/wiki/D._B._Cooper , FBI history page |
+| Surtsey: 1963–1967, ≈2.65 km² (≈1 sq mi) at max, UNESCO 2008, ≈47–50% of area eroded | Confirmed | https://whc.unesco.org/document/152217 |
+Removed before recording (unverified): "one of the largest brick forts in the Americas", ">16 million bricks",
+"≈1,000 residents", "another 200 years".
